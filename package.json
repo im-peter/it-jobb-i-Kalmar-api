@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/im-peter/it-jobb-i-Kalmar-api#readme",
   "dependencies": {
+    "gzip-all": "^1.0.0",
     "json-minify": "^1.0.0"
   }
 }
