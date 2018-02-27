@@ -1,0 +1,24 @@
+{
+  "name": "it-jobb-i-kalmar-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "npm run build-partners && npm run build-disposition",
+    "build-disposition": "json-minify disposition.json > build/disposition.json",
+    "build-partners": "json-minify partners.json > build/partners.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-peter/it-jobb-i-Kalmar-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im-peter/it-jobb-i-Kalmar-api/issues"
+  },
+  "homepage": "https://github.com/im-peter/it-jobb-i-Kalmar-api#readme",
+  "dependencies": {
+    "json-minify": "^1.0.0"
+  }
+}
