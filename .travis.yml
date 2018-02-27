@@ -1,14 +1,11 @@
 language: node_js
 node_js:
 - node
-
 cache:
   directories:
   - node_modules
-
 install:
 - npm install --dd
-
 script:
 - npm run build --dd
 
@@ -16,8 +13,8 @@ deploy:
   provider: s3
   access_key_id: AKIAJRNJAWH5WTT2BZFA
   secret_access_key:
-    secure: mQgDD8Q1mT1gHeocv15jCS2+yU0ft6i/FyLThVPUO4uAci6QRYfwlcjYuhmBcsqhbtDIk5k602t3fZ3MyPt9QKtoCQI5pv1+MDHHWbuji82OvmpfwDOmlC3Dwbz5iJwddOQtFD2bsa0ea+DZZJ/DoXrxZaddSroDruP+LwlKRK/wckgYadVWstO94DSDRYeJ8wgN0NhSgW+kyAgJYA4i+U3+xX8c5K6hUMsgMqv92qGHDYeo9sRwr2oI8GQnuV8O5vEgQkMDjxEadQuC5CQeW8/avKZBkvefmI7O+9DuOf88GiyEP8bg9LE3TouTF3eePeo92aC9EgE9XnezYzxzTz+7MrzHa25blwLfq+vJD0KTTzFAf2uiC9ApYC1kKTsjbnXusipfxDPNOpxuh+266ATlUKU56uYawIKqB/M8M68eOzhE6S1v4X+bRFgvHeJaXq5ZNgtkDa/CN+OIQD+v0nBWB1D5O2H9H2Vc6I46rvOC0t3zYO/OEXPh0qMWRB7Sy9xRNOz2eYiyiA94GnIAIJoA4h4iLi2dpjrT/ijAGjuSJQMCFQpcvpm3LLDZLlXAvhMwnbbT+NZVParY2nEosvTzKiPO5taTJACCUbpEWLG9iAmfyM2eohDrMCyWUNkMVjEiiO5ygnQNp9E6neieJgVaBz4lMQ35i9/OiQUkoy4=
-  bucket: "api.itjobbikalmar.se"
+    secure: I/T4N0aiEmKuZn0m0y/qYHSiCJkOtsiVHrnROucAtM0R8u3rxReYujM14WVFaDMqLcf8L1Zb3LX5F5VHny8zzc0uTYEUbghyq2YTljMegHKW8CXHVoB1i3Mnz8kS7gRp97dtqHB+Bp6d5kZ7XR3P1jGeIDG2PE0flWkwknlCwpneKzCgzTcQmHwvMeYpJrMCCj8u298MqTn09P2gNUohN7p7bJ4BZwB+M6QYrqLPbMhH0iO77hZn6mogZ4Qqpeu4DsFXuoGyfJUtb3ntldEgb/y4dkWgGMMu1LbIXG3CwTPztRcZoHUTNMkvz9QCgUqio25rFkQ5tPl6uirj+3xgz9ASHRsIw5ONbeY0yhQRlB4+GU+TO8l0wKbjX3rI5hFIUGjsfc00Xi0CS284cPMI/0dyu6spQAjycMDojhGklLM4HDL4Ujq+A13YjpMG1zJWFsITRwNBZ1yzTdz+x90Hf7ZEXObM6xFVsBsFYAAFp5xLJ/gbsI5uEApXRr+VLCkJ3ikqZYMqGNcZ8l00aCLPVwikCFY4TDzdMmGxawVd+YAiP67aKpcys9ifTNb5/Vez/iUOHIuON6JSOeef0MkL1F/RWHRO34K4ccQOTCsEiuF+LbvmzueZsRqrmIwqX0fEK0ZG96DQeHKT+QAZUe2I/rF/1Y5/cqBt+fV0X+wRyxQ=
+  bucket: api.itjobbikalmar.se
   local-dir: build
   acl: public_read
   region: eu-west-1
