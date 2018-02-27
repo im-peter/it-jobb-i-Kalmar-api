@@ -1,0 +1,77 @@
+{
+    "pages": {
+        "home": {
+            "display": "Hem",
+            "route": "hem",
+            "content": {
+                "header": "Page header / title",
+                "sections": [
+                    {
+                        "header": "Kalmar - bla bla bla",
+                        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    },
+                    {
+                        "header": "Våra partners",
+                        "paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+                        "data": {
+                            "source": "partners.json",
+                            "key": 
+                        }
+                    }
+                ]
+            }
+        },
+        "adds": {
+            "display": "Jobbannonser",
+            "route": "jobb",
+            "content": {
+                "header": "Page header / title",
+                "sections": [
+                    {
+                        "header": "Section header",
+                        "paragraph": "section text"
+                    }
+                ]
+            }
+        },
+        "partners": {
+            "display": "Våra partners",
+            "route": "vara-partners",
+            "content": {
+                "header": "Våra samarbetspartners",
+                "sections": [
+                    {
+                        "header": "Section header",
+                        "paragraph": "section text"
+                    }
+                ]
+            }
+        },
+        "kalmar": {
+            "display": "Livet i Kalmar",
+            "route": "livet-i-kalmar",
+            "content": {
+                "header": "Page header / title",
+                "sections": [
+                    {
+                        "header": "Section header",
+                        "paragraph": "section text"
+                    }
+                ]
+            }
+        },
+        "contact": {
+            "display": "Kontakta oss",
+            "route": "kontakt",
+            "content": {
+                "header": "Page header / title",
+                "sections": [
+                    {
+                        "header": "Section header",
+                        "paragraph": "section text"
+                    }
+                ]
+            }
+        }
+    }
+}
