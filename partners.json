@@ -2,39 +2,354 @@
     "partners": [
         {
             "name": "Infomaker",
-            "level": "gold",
-            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-            "logo": "url to logo",
-            "website": "www.url.com",
-            "facebook": "www.facebook.com/parnername",
-            "twitter": "www.twitter.com/partnername"
+            "description": "Infomaker arbetar med lösningar för publicering, arkivering och distribution av innehåll åt marknadens största mediehus och tidningar. Med över 250 kunder i Sverige, Norge, Finland och Holland, och mer än 20 års branscherfarenhet, kan vi erbjuda våra kunder det allra bästa när det kommer till publicering, oavsett om det gäller print eller digitalt.",
+            "level": "",
+            "logo": "https://kalmarsciencepark.se/app/uploads/2017/10/1413446270-30504751-300x53.png",
+            "website": "https://www.infomaker.se/",
+            "facebook": "https://www.facebook.com/infomakerscandinavia/",
+            "twitter": "https://twitter.com/infomakernews"
         },
         {
             "name": "Meridium",
-            "level": "gold",
-            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-            "logo": "url to logo",
-            "website": "www.url.com",
-            "facebook": "www.facebook.com/parnername",
-            "twitter": "www.twitter.com/partnername"
+            "description": "Meridium är en helhetsleverantör inom webb och erbjuder allt ifrån webbstrategi och behovsanalys till formgivning och utveckling. Vi ser alla projekt som början på ett långsiktigt samarbete där vårt förvaltningserbjudande fungerar som en garant för detta. Vi är idag drygt 60 anställda i Kalmar och Stockholm – alla med den gemensamma nämnaren att vi brinner för digital interaktion med fokus på webb. Bland våra kunder finns flertalet kommuner, myndigheter, biståndsorganisationer och fackförbund, men vi har även uppdrag åt större kunder inom den privata sektorn.",
+            "level": "",
+            "logo": "https://www.meridium.se/static/images/Logo.png",
+            "website": "https://meridium.se",
+            "facebook": "https://sv-se.facebook.com/meridiumab",
+            "twitter": "https://twitter.com/meridium"
         },
         {
-            "name": "CGI",
-            "level": "silver",
-            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-            "logo": "url to logo",
-            "website": "www.url.com",
-            "facebook": "www.facebook.com/parnername",
-            "twitter": "www.twitter.com/partnername"
+            "name": "CLX Communications",
+            "description": "CLX erbjuder molnbaserade företagstjänster som underlättar kommunikation med sms, röstmeddelanden och annan mobil data. Företaget har cirka 20 anställda i Kalmar, av totalt cirka 180 anställda, med huvudkontor i Kista och flera filialer världen över.",
+            "level": "",
+            "logo": "https://4aqxi84bnoc2qtf273j9ncv1-wpengine.netdna-ssl.com/wp-content/themes/clx/assets/images/clxLogo.svg",
+            "website": "https://www.clxcommunications.com/",
+            "facebook": "https://www.facebook.com/clxcommunications/",
+            "twitter": "https://twitter.com/CLXCommsAB"
+        },
+        {
+            "name": "Vitec",
+            "description": "Vitec är ett programvarubolag som erbjuder specifika affärssystem till bygg- och fastighetsbolag, fastighetsmäklare, energibolag, banker och försäkringsmäklare, tidningsföretag samt hälsoföretag.",
+            "level": "",
+            "logo": "",
+            "website": "https://www.vitecsoftware.com/sv/",
+            "facebook": "https://www.facebook.com/Vitec-Bygg-Fastighet-184650441568005/",
+            "twitter": "https://twitter.com/vitecfastighet"
+        },
+        {
+            "name": "Play'n GO",
+            "description": "Internationella Play'n Go är specialiserat på att utveckla olika typer av casinospel till mobila plattformar.",
+            "level": "",
+            "logo": "https://pbs.twimg.com/profile_images/508909530281807872/P-NgT2FN_400x400.png",
+            "website": "http://www.playngo.com/",
+            "facebook": "https://www.facebook.com/theplayngo",
+            "twitter": "https://twitter.com/theplayngo"
+        },
+        {
+            "name": "Alpacha",
+            "description": "Vi levererar helhetslösningar för butiker, salonger, terapeuter  m fl. som behöver något av följande: kassa, bokning, e-handel, hemsida, journalsystem, fakturering, överföring till bokföring av dagskassor m m. Allt i ett och samma system, eller modulbaserat. Med möjlighet att bygga på. Vi har även lönesystem för frisörbranschen enligt deras avtal. Supersmidigt! Alpacha grundades år 2000. Vi är 10 medarbetare och har egen utvecklingsavdelning. All vår programvara är egenutvecklad från grunden. Därav stabila lösningar. Kvalitét och trygghet är våra ledord.",
+            "level": "",
+            "logo": "https://www.alpacha.se/Caches/ContentImages/b/7/9582d50880f654e9f4811afb6dcaa0b7_7421b47a823ef1879edbdc81a5198086f53c9ea4/alpacha-500px.png",
+            "website": "https://www.alpacha.se/",
+            "facebook": "http://www.facebook.com/AlpachaAB?fref=ts",
+            "twitter": "http://www.twitter.com/Alpacha_AB"
+        },
+        {
+            "name": "Apirix",
+            "description": "Apirix utvecklar anpassade lösningar inom digital egenkontroll. Apirix Egenkontroll ger total kontroll och bättre lönsamhet genom industriella protokoll.",
+            "level": "",
+            "logo": "http://www.apirix.se/images/apirix_logo.png",
+            "website": "http://www.apirix.se/",
+            "facebook": "https://www.facebook.com/ApirixAB/",
+            "twitter": ""
+        },
+        {
+            "name": "E-hälsomyndigheten",
+            "description": "Hela 99 procent av alla recept i Sverige är elektroniska. När en läkare skickar iväg ett e-recept från sin dator hamnar det hos oss på eHälsomyndigheten. Alla apotek kan sedan hämta e-receptet och lämna ut läkemedlet till kunden. Detta är ett exempel på hur e-hälsa underlättar vardagen för oss alla. Förutom att ansvara för e-recepten leder vi regeringens satsningar på e-hälsa och erbjuder ett antal e-hälsotjänster.",
+            "level": "",
+            "logo": "https://www.ehalsomyndigheten.se/static/ehm/images/logo.svg",
+            "website": "https://www.ehalsomyndigheten.se/",
+            "facebook": "",
+            "twitter": "https://twitter.com/eHalsan"
+        },
+        {
+            "name": "Atea",
+            "description": "Vi bygger Sverige med it. Vi har ett heltäckande erbjudande inom it-infrastruktur. Våra it-specialister hjälper dig med lösningar, från en lokalt installerad lösning till it som tjänst - det som passar din verksamhet bäst. I Sverige är vi 2 200 medarbetare på ett trettiotal orter från Malmö i söder till Kiruna i norr. Omkring 1 000 av oss är konsulter.",
+            "level": "",
+            "logo": "",
+            "website": "https://www.atea.se/",
+            "facebook": "https://www.facebook.com/ateasverige",
+            "twitter": "https://twitter.com/ateasverige"
+        },
+        {
+            "name": "Know-it",
+            "description": "Digitalbyrån som skapar de starkaste upplevelserna i mötet mellan besökaren och ditt varumärke. Innovativa lösningar med den senaste tekniken och moderna arbetssätt. Tillsammans får vi det att hända på riktigt.",
+            "level": "",
+            "logo": "https://www.knowit.se/globalassets/brandbook/logotyper/knowit_logotype_gron-logo.png/Small50",
+            "website": "https://www.knowit.se/",
+            "facebook": "https://knowit.se/knowitsolutions/facebook",
+            "twitter": "http://www.twitter.com/knowitab"
+        },
+        {
+            "name": "Aditor",
+            "description": "Vi är regionens bredaste, lokalt ägda, leverantör av kvalificerade IT-tjänster. Vi försöker göra skillnad genom personlig service, flexibilitet, ansvarstagande och snabba beslut. Vår målsättning är att underlätta våra kunders vardag. Vårt breda erbjudande gör att du kan minska antalet leverantörer. Tillsammans med våra samarbetspartners kan vi erbjuda heltäckande leveranser inom allt som rör IT.",
+            "level": "",
+            "logo": "https://aditor.se/wp-content/uploads/2017/02/aditor-logotyp.png",
+            "website": "https://aditor.se/",
+            "facebook": "https://www.facebook.com/aditorab/",
+            "twitter": ""
+        },
+        {
+            "name": "Kalmar Science park",
+            "description": "Kalmar Science Park erbjuder en kreativ mötesplats för idéer och innovativa företag som vill växa. Vi stärker regionens attraktivitet genom att tillföra nytänkande, inspiration och nätverksbyggande i nära samarbete med näringslivet och Linnéuniversitetet.",
+            "level": "",
+            "logo": "https://kalmarsciencepark.se/app/uploads/2017/03/ksp-logo.png",
+            "website": "https://kalmarsciencepark.se/",
+            "facebook": "https://www.facebook.com/KalmarSciencePark/",
+            "twitter": "https://twitter.com/ksciencepark"
+        },
+        {
+            "name": "Kalmar kommun",
+            "description": "Vi vill att företagen i kommunen ska fortsätta expandera och gå bra och att fler företag väljer vår region som ny etableringsplats.",
+            "level": "",
+            "logo": "https://kalmar.se/webdav/files/System/resources/graphics/logo.svg",
+            "website": "https://kalmar.se/",
+            "facebook": "https://facebook.com/kalmarkommun",
+            "twitter": "https://twitter.com/kalmarkommun"
+        },
+        {
+            "name": "Kalmar Landsting IT",
+            "description": "Söker du en ny utmaning? Vill du bli en av oss? Att jobba i landstinget är ett jobb för livet. Det innebär möten med människor i livets alla skeden.",
+            "level": "",
+            "logo": "http://www.ltkalmar.se/images/footerlogo.svg",
+            "website": "http://www.ltkalmar.se/",
+            "facebook": "https://www.facebook.com/LandstingetiKalmarlan/",
+            "twitter": "https://twitter.com/ltkalmar"
+        },
+        {
+            "name": "Sigma",
+            "description": "Sigma Technology is part of Sigma, and is a global supplier of product information, embedded solutions and offshore development. We are experts with a passion for technology and information, and take pride in delivering quality and constantly improving our deliveries.",
+            "level": "",
+            "logo": "https://sigmatechnology.se/wp-content/uploads/sites/2/2017/11/cropped-sigma_logo_technology_retina.png",
+            "website": "https://sigmatechnology.se/",
+            "facebook": "https://www.facebook.com/sigmatechnologygroup",
+            "twitter": ""
+        },
+        {
+            "name": "Viva media",
+            "description": "Vi drivs av kundskap, data och fingertoppskänsla. Ditt företags behov är alltid i centrum när vi marknadsför med ansvar och precision.",
+            "level": "",
+            "logo": "https://vivamedia.se/wp-content/themes/html5blank-stable/img/logo.svg",
+            "website": "https://vivamedia.se/",
+            "facebook": "https://facebook.com/vivamediagroup",
+            "twitter": "https://twitter.com/VivaMediaAB"
+        },
+        {
+            "name": "Visma Comenius",
+            "description": "Digitala IT-lösningar för Talent Management. Vi på Visma Comenius har en passion för IT-lösningar och Talent Management. Vi vet hur fundamentalt det är att attrahera, engagera och behålla rätt kompetens för att säkerställa er organisations utveckling och affärsresultat.",
+            "level": "",
+            "logo": "http://uploads.webflow.com/587f89b1b64ced956bd8a154/59f84fe9a38c420001ebdc81_visma_4f_96dpi.png",
+            "website": "http://www.comenius.se/",
+            "facebook": "https://www.facebook.com/vismasverige",
+            "twitter": "https://twitter.com/vismasverige"
+        },
+        {
+            "name": "Södra",
+            "description": "Högteknologiska industri. Innovativt tänkande och banbrytande digitala lösningar. ",
+            "level": "",
+            "logo": "https://pbs.twimg.com/profile_images/578186247044087808/uw_mRd8H_400x400.jpeg",
+            "website": "https://www.sodra.com/sv/",
+            "facebook": "https://www.facebook.com/sodragroup",
+            "twitter": "https://twitter.com/sodra"
+        },
+        {
+            "name": "Konica Minolta",
+            "description": "Affärslösningar Inom områdena IT- och dokumentprocesser och production printing erbjuder vi konsultation, implementation och förvaltning fokuserat på IT-infrastruktur.",
+            "level": "",
+            "logo": "https://www.konicaminolta.com/shared/unchangeable/img/identity01g.svg",
+            "website": "https://www.konicaminolta.com/se-sv/index.html",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Otimo data",
+            "description": "Otimo är ett företag bestående av cirka 14 anställda som arbetar med utveckling och underhåll av IT-system främst för den offentliga sektorn. I dag har Otimo bland annat 19 av 21 landsting som kunder, samt två nationella kvalitetsregister. Företagets nya huvudkontor ligger i en fantastisk miljö, nära Kalmar Slott.",
+            "level": "",
+            "logo": "http://www.otimo.se/images/uploads/Otimo_logo-500px.png",
+            "website": "http://www.otimo.se/",
+            "facebook": "https://www.facebook.com/otimodata/",
+            "twitter": ""
+        },
+        {
+            "name": "Lindmark och partner",
+            "description": "Lindmark&Partner är en digital byrå ifrån Kalmar Småland som producerar resultatdrivande kommunikation. Är ni intresserade av en partn",
+            "level": "",
+            "logo": "https://s3-eu-central-1.amazonaws.com/lindmark-partner/app/uploads/2017/06/20092345/LP_liggande_white.svg",
+            "website": "https://lindmarkpartner.se/",
+            "facebook": "https://www.facebook.com/lindmarkpartner",
+            "twitter": "https://twitter.com/lindmarkpartner"
+        },
+        {
+            "name": "Royal design",
+            "description": "Sveriges största utbud av inredning, möbler och design till ditt hem. Royal Design erbjuder ett sortiment med över 100 000 produkter. Inredning på nätet när det är som bäst. Allt från trendig heminredning till vacker belysning från Skandinaviens främsta varumärken och designers. Här hittar du allt från den populära blocklampan från Design House Stockholm, Mine-glasen från Kosta Boda, mattan Vera från Pappelina, serien Teema från Iittala och mycket annat från stora kända varumärken. I Royal Design Group och i vårt koncept för heminredning på nätet ingår också Rum21.se.",
+            "level": "",
+            "logo": "http://royaldesign.se/img/logo.png",
+            "website": "http://royaldesign.se/",
+            "facebook": "https://www.facebook.com/RoyalDesign.se",
+            "twitter": "https://twitter.com/RoyalDesigncom"
+        },
+        {
+            "name": "Electra",
+            "description": "En drivande partner inom handel och logistik Electra grundades 1949 och är idag en av Sveriges bästa partners inom handel, it och logistik. Med branschkunskap, rätt produkter och tjänster erbjuder vi kundupplevelse, utveckling och lönsamhet.",
+            "level": "",
+            "logo": "https://www.electra.se/media/1011/logo-electra.svg",
+            "website": "https://www.electra.se/",
+            "facebook": "https://www.facebook.com/pages/Electra-Sweden-AB/159157397616750",
+            "twitter": ""
+        },
+        {
+            "name": "Design online",
+            "description": "Vi på designonline är en kreativ grupp med olika kompetenser som tillsammans driver och utvecklar den ledande e-butiken inom skandinavisk inredning och design. Vi är stolta över att kunna presentera fler än 170 välrenommerade varumärken och tusentals olika designprodukter. Våra kunder finns i hela världen och det är en stor och spännande utmaning att arbeta mot en internationell marknad.",
+            "level": "",
+            "logo": "",
+            "website": "https://www.designonline.se/",
+            "facebook": "https://www.facebook.com/designonline.se",
+            "twitter": ""
+        },
+        {
+            "name": "Outnorth",
+            "description": "Outnorth är en av Skandinaviens ledande nätbutiker med produkter inom friluftsliv och outdoor. Outnorth strävar efter att leverera \"the best of Scandinavian Outdoor\" till kunder över hela världen. Vi har anor tillbaks så långt som till 1926 men namnet Outnorth lanserades så sent som i maj 2012, då Outnet och GetOut gick samman och bildade Outnorth.",
+            "level": "",
+            "logo": "http://a3.static.outnorth.com/image/upload/d_no_image_chlzht.png,f_auto,fl_lossy,q_auto/v1/static/logo-outnorth.png",
+            "website": "http://www.outnorth.se/",
+            "facebook": "http://www.facebook.com/outnorth.com",
+            "twitter": ""
+        },
+        {
+            "name": "Easyfy",
+            "description": "Easyfy optimerar din e-handel och levererar en skräddarsydd plattform som bygger på lika delar psykologi och teknik. Allt från smarta tekniklösningar och pålitlig säkerhet till strategisk planering och avancerad sökmotoranalys. Dessutom kombinerar vi nyfikenhet med erfarenhet. Easyfy letar alltid efter nya wow-lösningar och morgondagens teknikupplevelser. Resultatet är smartare e-handel och köpupplevelser i världsklass.",
+            "level": "",
+            "logo": "https://pbs.twimg.com/profile_images/3572398038/d52431e57c616efc9541d4f005ae8c4d_400x400.png",
+            "website": "https://www.easyfy.se/",
+            "facebook": "https://www.facebook.com/Easyfy/",
+            "twitter": "https://twitter.com/easyfy"
         },
         {
             "name": "Tieto",
-            "level": "brons",
-            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-            "logo": "url to logo",
-            "website": "www.url.com",
-            "facebook": "www.facebook.com/parnername",
-            "twitter": "www.twitter.com/partnername"
+            "description": "Tieto tillhandahåller IT-tjänster som accelererar din affär. Vi tittar på världen med ett nytt perspektiv, möjliggör IT-transformation genom digitalisering och skapar innovativa ekosystem som accelererar din affär.",
+            "level": "",
+            "logo": "https://pbs.twimg.com/profile_images/732201524433129472/6nYAWlnl_400x400.jpg",
+            "website": "https://www.tieto.se/",
+            "facebook": "https://www.facebook.com/pages/Tieto-Sweden-AB/144522012270182",
+            "twitter": "https://twitter.com/tietosverige"
+        },
+        {
+            "name": "CGI",
+            "description": "Vår värld är föränderlig. Så är också IT-branschen. Vi på CGI arbetar för att utveckla och förbättra våra kunders IT-verksamhet så att de är konkurrenskraftiga och uppfyller de krav som ställs på en modern verksamhet, både nu och i framtiden. Med över 400 kontor i 40 länder är vi också en av världens ledande leverantörer av tjänster inom IT- och affärsprocesser.",
+            "level": "",
+            "logo": "https://pbs.twimg.com/profile_images/3173948570/83fdb95508ece7d94cf5ec8f27cba4da_400x400.png",
+            "website": "https://www.cgi.se/",
+            "facebook": "https://www.facebook.com/cgisverige/",
+            "twitter": "https://twitter.com/cgi_se"
+        },
+        {
+            "name": "Softhouse",
+            "description": "Vi är ett konsultföretag som är riktigt bra på att utveckla lösningar med mjukvara och att utveckla människor och verksamheter. Detta har vi gjort sedan starten 1996 och idag är vi ett av de ledande företagen i Skandinavien på Lean & Agile. Totalt är vi cirka 200 anställda på plats i Stockholm, Göteborg, Malmö, Karlskrona, Kalmar och Växjö.",
+            "level": "",
+            "logo": "http://www.softhouse.se/wp-content/uploads/2014/09/softhouse_logotyp.png",
+            "website": "http://www.softhouse.se/",
+            "facebook": "https://www.facebook.com/softhouseconsulting/",
+            "twitter": "https://twitter.com/softhousesh"
+        },
+        {
+            "name": "Contribe",
+            "description": "Contribe är ett IT-bolag som erbjuder kvalificerad kompetens inom systemutveckling, webbutveckling och systemtest.",
+            "level": "",
+            "logo": "https://www.contribe.se/hubfs/Contribe-Mar2017/Image/Header-Logo.png?t=1521023938585",
+            "website": "http://www.contribe.se/",
+            "facebook": "http://www.facebook.com/pages/Contribe/187646001286868",
+            "twitter": "https://twitter.com/IT_konsult"
+        },
+        {
+            "name": "Beanloop",
+            "description": "Digital utveckling och innovation. Webbutveckling och programmering. En digital partner med djup och bred kunskap inom de senaste teknikerna.",
+            "level": "",
+            "logo": "https://beanloop.se/app/uploads/2016/12/beanloop_logo_positive-1024x243.png",
+            "website": "https://beanloop.se/",
+            "facebook": "https://www.facebook.com/beanloopab/",
+            "twitter": "https://twitter.com/beanloopdev"
+        },
+        {
+            "name": "Kodbruket",
+            "description": "Kodbruket förädlar och utvecklar er e-handel. Vi hjälper såväl startups som etablerade företag att analysera, utveckla och underhålla sin e-handel.",
+            "level": "",
+            "logo": "https://pbs.twimg.com/profile_images/806416094755950592/bjaDggEV_400x400.jpg",
+            "website": "https://kodbruket.se/",
+            "facebook": "https://www.facebook.com/kodbruket/",
+            "twitter": "https://twitter.com/kodbruket"
+        },
+        {
+            "name": "Milou",
+            "description": "Design, teknik & digitala affärer Vi är affärsutvecklare, problemlösare och kreatörer i själ och hjärta. Vi kallar vår arbetsplats digitalbyrå. Vår drivkraft är innovation och respekt. Vår belöning är effekt och värde hos våra kunder.",
+            "level": "",
+            "logo": "https://pbs.twimg.com/profile_images/715840469469630465/X-nTmuR9_400x400.jpg",
+            "website": "http://www.milou.se/",
+            "facebook": "https://www.facebook.com/miloucommunication",
+            "twitter": "https://twitter.com/milou_se"
+        },
+        {
+            "name": "Webready",
+            "description": "Vi är en webbutvecklingsbyrå i Kalmar. Vi är ett härligt gäng webbutvecklare som brinner för webbutveckling och alltid hålla oss uppdaterad med de senaste teknikerna.",
+            "level": "",
+            "logo": "https://webready.se/wp-content/themes/webready/assets/gfx/webready-logo@2x.png",
+            "website": "https://webready.se/",
+            "facebook": "https://www.facebook.com/webready/",
+            "twitter": "https://twitter.com/webready_se"
+        },
+        {
+            "name": "Wilson creative",
+            "description": "En byrå i Kalmar och Stockholm som tänker digitalt först. Är du ute efter starka idéer, skarp design, digitala upplevelser eller smarta hyss så är vi som gjorda för varandra.",
+            "level": "",
+            "logo": "https://kalmarsciencepark.se/app/uploads/2017/10/W2017_heart_green-1-768x570.png",
+            "website": "https://wilsoncreative.se/",
+            "facebook": "https://www.facebook.com/wilsoncreative/",
+            "twitter": "https://twitter.com/wilson_creative"
+        },
+        {
+            "name": "Elysium",
+            "description": "",
+            "level": "",
+            "logo": "",
+            "website": "http://elysium.ai/",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Internetbyrån",
+            "description": "Digitalbyrån med dina mål i fokus. Vi är stolta över vår gemensamma erfarenhet och kunskap. Det är en förutsättning för att vi ska kunna lyfta våra kunder till nästa nivå.",
+            "level": "",
+            "logo": "https://www.internetbyran.com/wp-content/uploads/2017/01/internetbyran-logo-liggande-vit-490x90.png",
+            "website": "https://www.internetbyran.com/",
+            "facebook": "https://www.facebook.com/internetbyran/",
+            "twitter": ""
+        },
+        {
+            "name": "Kreation",
+            "description": "Vi skapar hemsidor som stärker varumärken och digitala kampanjer som använder teknikens möjligheter. Vi ser alltid till helheten när vi tar fram grafiska profiler och kopplar såväl varumärket som grafiska element till digitala behov. ",
+            "level": "",
+            "logo": "https://kreation.se/assets/images/logotype.svg",
+            "website": "https://kreation.se/",
+            "facebook": "https://sv-se.facebook.com/kreationreklam",
+            "twitter": ""
+        },
+        {
+            "name": "Connect media",
+            "description": "ConnectMedia är en mediebyrå inom reklam, media & webb. Vi älskar att ta fram nya, kreativa lösningar för att ni ska lyckas med er marknadsföring!",
+            "level": "",
+            "logo": "https://www.connectmedia.se/wp-content/themes/cm/assets/img/site-logo.svg",
+            "website": "https://www.connectmedia.se/",
+            "facebook": "https://www.facebook.com/ConnectMedia/",
+            "twitter": ""
         }
     ]
 }
