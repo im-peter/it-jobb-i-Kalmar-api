@@ -1,0 +1,22 @@
+{
+    "topics": [
+        {
+            "date": "2018-03-14",
+            "headline": "LNU erjbuder kurs i Tillämpad maskininlärning",
+            "text": "Kompetensutveckling för erfarna utvecklare som arbetar professionellt med utveckling.",
+            "link": "https://lnu.se/utbildning/kompetensutveckling/digitalisering-it/tillampad-maskininlarning/"
+        },
+        {
+            "date": "2018-02-21",
+            "headline": "Kalmar ett allt starkare it-kluster – lockar hemvändare",
+            "text": "Lyssna på ett radioklipp om hur Kalmar utvecklas som IT stad",
+            "link": "http://sverigesradio.se/sida/artikel.aspx?programid=86&artikel=6887219"
+        },
+        {
+            "date": "2018-02-08",
+            "headline": "Ny ingenjörsutbildning till Kalmar",
+            "text": "I höst startar Linnéuniversitetet i Kalmar en ingenjörsutbildning i mjukvaruteknik. ”Vi ser att många unga försvinner från regionen och det är svårt att få tillbaka dem”, säger Jesper Andersson.",
+            "link": "http://www.ostrasmaland.se/kalmar/start-i-host-for-ingenjorsutbildning/"
+        }
+    ]
+}
