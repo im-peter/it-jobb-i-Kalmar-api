@@ -4,9 +4,10 @@
   "description": "",
   "main": "",
   "scripts": {
-    "build": "npm run build-partners && npm run build-disposition",
+    "build": "npm run build-partners && npm run build-disposition && npm run build-news",
     "build-disposition": "json-minify disposition.json > build/disposition.json",
-    "build-partners": "json-minify partners.json > build/partners.json"
+    "build-partners": "json-minify partners.json > build/partners.json",
+    "build-news": "json-minify news.json > build/news.json"
   },
   "repository": {
     "type": "git",
