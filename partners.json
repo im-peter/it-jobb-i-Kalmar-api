@@ -358,6 +358,15 @@
             "website": "https://www.connectmedia.se/",
             "facebook": "https://www.facebook.com/ConnectMedia/",
             "twitter": ""
+        },
+        {
+            "name": "Kalmar NDC",
+            "description": "Kalmars bredaste IT-leverantör. Kalmar NDC har erfarenhet av IT sedan 1992. Vi levererar kvalitativa och professionella IT-system samt relaterade IT-tjänster och IT-produkter till företag, organisationer och privatpersoner. Vi levererar kvalitativa och professionella IT-system samt relaterade IT-tjänster och IT-produkter till företag, organisationer och privatpersoner. Vår kompetens och erfarenhet innebär att vi sätter samman serverdatorer och installerar IT-system som möter Era krav och behov. Vi har särskild erfarenhet av funktionskritiska servrar som är hårdvaruoberoende, baserade på operativsystemen Linux och Windows för krävande tillämpningar. Servrarna är även framtidsanpassade vilket ger utrymme för Ert företags framtida utveckling.",
+            "level": "",
+            "logo": "http://kalmarndc.se/wp-content/uploads/2016/11/final_medium-1.png",
+            "website": "http://kalmarndc.se/",
+            "twitter": "https://twitter.com/KalmarNDC",
+            "facebook": "https://www.facebook.com/kalmarndc/"
         }
     ]
 }
