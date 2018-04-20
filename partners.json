@@ -166,6 +166,7 @@
             "name": "Codebet",
             "description": "Vi bygger framtidens digitala produkter. Den digitala världen ändras konstant, därför har vi inget slutmål. För oss är resan, målet. Vi bygger innovativa IT-lösningar som inte behöver startas om, bytas ut eller byggas om från grunden. Vägen vi valt är en formbar och nytänkande arkitektur och teknik som alltid ligger i yttersta framkant. Bolaget består av utvecklare med olika kunskaper inom front- och backendutveckling. Alla med en gemensam nämnare - kärlek till kod och teknikutveckling.",
             "level": "",
+            "logo": "https://codebet.se/img/codebet_org_cmyk.svg",
             "facebook": "https://www.facebook.com/codebet.se/",
             "twitter": "",
             "website": "https://codebet.se/"
@@ -325,7 +326,7 @@
         },
         {
             "name": "Elysium",
-            "description": "",
+            "description": "Artificial Intelligence & Cognitive Computing",
             "level": "",
             "logo": "",
             "website": "http://elysium.ai/",
