@@ -1,77 +1,165 @@
 {
     "pages": {
         "home": {
-            "display": "Hem",
-            "route": "hem",
+            "display": "🏡 Hem",
+            "route": "/",
+            "scene": "Page",
             "content": {
-                "header": "Page header / title",
                 "sections": [
-                    {
-                        "header": "Kalmar - bla bla bla",
-                        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                    },
-                    {
-                        "header": "Våra partners",
-                        "paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
-                        "data": {
-                            "source": "partners.json",
-                            "level": "gold"
+                    [
+                        {
+                            "component": "Header",
+                            "props": {
+                                "title": "IT-jobben finns i Kalmar",
+                                "fitScreen": true,
+                                "backgroundImage": ["images/cover.jpg", "images/cover@large.jpg"],
+                                "style": {
+                                    "backgroundSize": "cover",
+                                    "fontSize": "60px",
+                                    "textAlign": "center",
+                                    "color": "white",
+                                    "textShadow": "0 1px 3px rgba(0, 0, 0, 0.5)"
+                                }
+                            }
+                        },
+                        {
+                            "component": "Boxes",
+                            "props": {
+                                "style": {
+                                    "maxWidth": "900px",
+                                    "margin": "0 auto"
+                                },
+                                "children": [{
+                                    "component": "Box",
+                                    "props": {
+                                        "children": [{
+                                            "component": "Header",
+                                            "props": {
+                                                "title": "Visa alla IT-jobb",
+                                                "style": {
+                                                    "padding": "20px",
+                                                    "backgroundColor": "#003760",
+                                                    "fontFamily": "'Titillium Web', sans-serif"
+                                                }
+                                            }
+                                        }, {
+                                            "component": "NavLink",
+                                            "props": {
+                                                "to": "https://www.facebook.com/itjobbikalmar/",
+                                                "target": "_blank",
+                                                "style": {
+                                                    "position": "relative",
+                                                    "minHeight": "400px"
+                                                },
+                                                "children": [{
+                                                    "component": "Header",
+                                                    "props": {
+                                                        "number": 2,
+                                                        "title": "Besök vår Facebook, klicka här",
+                                                        "style": {
+                                                            "top": 0,
+                                                            "right": 0,
+                                                            "bottom": 0,
+                                                            "left": 0,
+                                                            "background": "url(images/ads-cover.jpg)",
+                                                            "backgroundSize": "cover",
+                                                            "fontSize": "30px",
+                                                            "textAlign": "center",
+                                                            "display": "flex",
+                                                            "position": "absolute",
+                                                            "fontFamily": "'Titillium Web', sans-serif",
+                                                            "backgroundPosition": "center center"
+                                                        }
+                                                    }                                                   
+                                                }]
+                                            }
+                                        }, {
+                                            "component": "Text",
+                                            "props": {
+                                                "children": "På vår Facebook-sida så hittar du alla de senaste jobbannonserna.",
+                                                "style": {
+                                                    "padding": "0 20px",
+                                                    "textAlign": "center"
+                                                }
+                                            }
+                                        }],
+                                        "style": {
+                                            "overflow": "hidden",
+                                            "flex": 2,
+                                            "padding": 0
+                                        },
+                                        "innerStyle": {
+                                            "height": "auto"
+                                        }
+                                    }
+                                }]
+                            }
                         }
-                    }
+                    ],
+                    [
+                        {
+                            "component": "Header",
+                            "props": {
+                                "title": "IT-Företag i Kalmarregionen",
+                                "style": {
+                                    "padding": "20px",
+                                    "backgroundColor": "#003760",
+                                    "fontFamily": "'Titillium Web', sans-serif"
+                                }
+                            }
+                        },
+                        {
+                            "component": "Partners",
+                            "props": {
+                                "style": {
+                                    "background": "white"
+                                }
+                            }
+                        }
+                    ]
                 ]
             }
         },
-        "adds": {
-            "display": "Jobbannonser",
-            "route": "jobb",
+        "ads": {
+            "display": "👩🏻‍💻 Se alla jobb",
+            "route": "https://www.facebook.com/itjobbikalmar/",
+            "scene": null,
             "content": {
-                "header": "Page header / title",
                 "sections": [
-                    {
-                        "header": "Section header",
-                        "paragraph": "section text"
-                    }
+                    [
+                        {
+                            "component": "Header",
+                            "props": {
+                                "backgroundImage": ["images/ads-cover.jpg", "images/ads-cover.jpg"],
+                                "style": {
+                                    "height": "400px",
+                                    "backgroundSize": "cover",
+                                    "backgroundPosition": "top right"
+                                }
+                            }
+                        }
+                    ]
                 ]
             }
         },
         "partners": {
-            "display": "Våra partners",
-            "route": "vara-partners",
-            "content": {
-                "header": "Våra samarbetspartners",
-                "sections": [
-                    {
-                        "header": "Section header",
-                        "paragraph": "section text"
-                    }
-                ]
-            }
-        },
-        "kalmar": {
-            "display": "Livet i Kalmar",
-            "route": "livet-i-kalmar",
-            "content": {
-                "header": "Page header / title",
-                "sections": [
-                    {
-                        "header": "Section header",
-                        "paragraph": "section text"
-                    }
-                ]
-            }
-        },
-        "contact": {
-            "display": "Kontakta oss",
-            "route": "kontakt",
-            "content": {
-                "header": "Page header / title",
-                "sections": [
-                    {
-                        "header": "Section header",
-                        "paragraph": "section text"
-                    }
-                ]
-            }
+            "display": "🚀 Företag",
+            "route": "/foretag",
+            "scene": "Partners",
+            "dataSrc": "partners",
+            "content": {}
         }
+    },
+    "menu": {
+        "icon": {
+            "family": "go",
+            "name": "three-bars",
+            "color": "white",
+            "size": "30px"
+        },
+        "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0.5)",
+            "color": "white"
+        } 
     }
 }
