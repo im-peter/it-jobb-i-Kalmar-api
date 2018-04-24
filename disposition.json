@@ -61,7 +61,7 @@
                                                             "right": 0,
                                                             "bottom": 0,
                                                             "left": 0,
-                                                            "background": "url(images/ads-cover.jpg)",
+                                                            "background": "url(images/listings-cover.jpg)",
                                                             "backgroundSize": "cover",
                                                             "fontSize": "30px",
                                                             "textAlign": "center",
@@ -120,7 +120,7 @@
                 ]
             }
         },
-        "ads": {
+        "listings": {
             "display": "👩🏻‍💻 Se alla jobb",
             "route": "https://www.facebook.com/itjobbikalmar/",
             "scene": null,
@@ -130,7 +130,7 @@
                         {
                             "component": "Header",
                             "props": {
-                                "backgroundImage": ["images/ads-cover.jpg", "images/ads-cover.jpg"],
+                                "backgroundImage": ["images/listings-cover.jpg", "images/listings-cover.jpg"],
                                 "style": {
                                     "height": "400px",
                                     "backgroundSize": "cover",
