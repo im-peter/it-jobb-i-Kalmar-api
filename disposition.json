@@ -1,7 +1,7 @@
 {
     "pages": {
         "home": {
-            "display": "🏡 Hem",
+            "display": "Hem",
             "route": "/",
             "scene": "Page",
             "content": {
@@ -121,7 +121,7 @@
             }
         },
         "listings": {
-            "display": "👩🏻‍💻 Se alla jobb",
+            "display": "Se alla jobb",
             "route": "https://www.facebook.com/itjobbikalmar/",
             "scene": null,
             "content": {
@@ -143,7 +143,7 @@
             }
         },
         "partners": {
-            "display": "🚀 Företag",
+            "display": "Företag",
             "route": "/foretag",
             "scene": "Partners",
             "dataSrc": "partners",
