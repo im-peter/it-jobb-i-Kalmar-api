@@ -127,15 +127,6 @@
             "website": "https://codebet.se/"
         },
         {
-            "name": "Apirix",
-            "description": "Apirix utvecklar anpassade lösningar inom digital egenkontroll. Apirix Egenkontroll ger total kontroll och bättre lönsamhet genom industriella protokoll.",
-            "level": "bronze",
-            "logo": "/images/partners/apirix.png",
-            "website": "http://www.apirix.se/",
-            "facebook": "https://www.facebook.com/ApirixAB/",
-            "twitter": ""
-        },
-        {
             "name": "Sigma",
             "description": "Sigma Technology is part of Sigma, and is a global supplier of product information, embedded solutions and offshore development. We are experts with a passion for technology and information, and take pride in delivering quality and constantly improving our deliveries.",
             "level": "silver",
@@ -268,6 +259,15 @@
             "logo": "/images/partners/electra.svg",
             "website": "https://www.electra.se/",
             "facebook": "https://www.facebook.com/pages/Electra-Sweden-AB/159157397616750",
+            "twitter": ""
+        },
+        {
+            "name": "Apirix",
+            "description": "Apirix utvecklar anpassade lösningar inom digital egenkontroll. Apirix Egenkontroll ger total kontroll och bättre lönsamhet genom industriella protokoll.",
+            "level": "bronze",
+            "logo": "/images/partners/apirix.png",
+            "website": "http://www.apirix.se/",
+            "facebook": "https://www.facebook.com/ApirixAB/",
             "twitter": ""
         },
         {
