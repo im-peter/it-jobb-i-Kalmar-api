@@ -82,6 +82,15 @@
             "twitter": "https://twitter.com/theplayngo"
         },
         {
+            "name": "Elysium",
+            "description": "Artificial Intelligence & Cognitive Computing",
+            "level": "silver",
+            "logo": "/images/partners/elysium.svg",
+            "website": "http://elysium.ai/",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
             "name": "Know-it",
             "description": "Digitalbyrån som skapar de starkaste upplevelserna i mötet mellan besökaren och ditt varumärke. Innovativa lösningar med den senaste tekniken och moderna arbetssätt. Tillsammans får vi det att hända på riktigt.",
             "level": "silver",
@@ -125,15 +134,6 @@
             "website": "http://www.apirix.se/",
             "facebook": "https://www.facebook.com/ApirixAB/",
             "twitter": ""
-        },
-        {
-            "name": "Kalmar Landsting IT",
-            "description": "Söker du en ny utmaning? Vill du bli en av oss? Att jobba i landstinget är ett jobb för livet. Det innebär möten med människor i livets alla skeden.",
-            "level": "bronze",
-            "logo": "/images/partners/kalmarlandstingit.svg",
-            "website": "http://www.ltkalmar.se/",
-            "facebook": "https://www.facebook.com/LandstingetiKalmarlan/",
-            "twitter": "https://twitter.com/ltkalmar"
         },
         {
             "name": "Sigma",
@@ -206,6 +206,15 @@
             "website": "https://wilsoncreative.se/",
             "facebook": "https://www.facebook.com/wilsoncreative/",
             "twitter": "https://twitter.com/wilson_creative"
+        },
+        {
+            "name": "Kalmar Landsting IT",
+            "description": "Söker du en ny utmaning? Vill du bli en av oss? Att jobba i landstinget är ett jobb för livet. Det innebär möten med människor i livets alla skeden.",
+            "level": "bronze",
+            "logo": "/images/partners/kalmarlandstingit.svg",
+            "website": "http://www.ltkalmar.se/",
+            "facebook": "https://www.facebook.com/LandstingetiKalmarlan/",
+            "twitter": "https://twitter.com/ltkalmar"
         },
         {
             "name": "Södra",
@@ -314,15 +323,6 @@
             "website": "http://www.milou.se/",
             "facebook": "https://www.facebook.com/miloucommunication",
             "twitter": "https://twitter.com/milou_se"
-        },
-        {
-            "name": "Elysium",
-            "description": "Artificial Intelligence & Cognitive Computing",
-            "level": "bronze",
-            "logo": "/images/partners/elysium.svg",
-            "website": "http://elysium.ai/",
-            "facebook": "",
-            "twitter": ""
         },
         {
             "name": "Hypergen",
