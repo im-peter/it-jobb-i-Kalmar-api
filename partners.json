@@ -7,7 +7,8 @@
             "logo": "/images/partners/kalmarkommun.svg",
             "website": "https://kalmar.se/",
             "facebook": "https://facebook.com/kalmarkommun",
-            "twitter": "https://twitter.com/kalmarkommun"
+            "twitter": "https://twitter.com/kalmarkommun",
+            "tags": []
         },
         {
             "name": "Infomaker",
@@ -16,7 +17,8 @@
             "logo": "/images/partners/infomaker.png",
             "website": "https://www.infomaker.se/",
             "facebook": "https://www.facebook.com/infomakerscandinavia/",
-            "twitter": "https://twitter.com/infomakernews"
+            "twitter": "https://twitter.com/infomakernews",
+            "tags": ["JavaScript", "React", "Redux", "Node", "Cloud", "Amazon", "Java", "Swift", ""]
         },
         {
             "name": "Meridium",
@@ -25,7 +27,8 @@
             "logo": "/images/partners/meridium.webp",
             "website": "https://meridium.se",
             "facebook": "https://sv-se.facebook.com/meridiumab",
-            "twitter": "https://twitter.com/meridium"
+            "twitter": "https://twitter.com/meridium",
+            "tags": [".NET", "JavaScript"]
         },
         {
             "name": "CLX Communications",
@@ -34,7 +37,8 @@
             "logo": "/images/partners/clx.svg",
             "website": "https://www.clxcommunications.com/",
             "facebook": "https://www.facebook.com/clxcommunications/",
-            "twitter": "https://twitter.com/CLXCommsAB"
+            "twitter": "https://twitter.com/CLXCommsAB",
+            "tags": ["PHP", "JavaScript", "React", "Redux"]
         },
         {
             "name": "E-hälsomyndigheten",
@@ -43,7 +47,8 @@
             "logo": "/images/partners/ehalsomyndigheten.svg",
             "website": "https://www.ehalsomyndigheten.se/",
             "facebook": "",
-            "twitter": "https://twitter.com/eHalsan"
+            "twitter": "https://twitter.com/eHalsan",
+            "tags": []
         },
         {
             "name": "Atea",
@@ -52,7 +57,8 @@
             "logo": "/images/partners/atea.png",
             "website": "https://www.atea.se/",
             "facebook": "https://www.facebook.com/ateasverige",
-            "twitter": "https://twitter.com/ateasverige"
+            "twitter": "https://twitter.com/ateasverige",
+            "tags": []
         },
         {
             "name": "Vitec",
@@ -61,7 +67,8 @@
             "logo": "/images/partners/vitec.svg",
             "website": "https://www.vitecsoftware.com/sv/",
             "facebook": "https://www.facebook.com/Vitec-Bygg-Fastighet-184650441568005/",
-            "twitter": "https://twitter.com/vitecfastighet"
+            "twitter": "https://twitter.com/vitecfastighet",
+            "tags": [".NET", "JavaScript"]
         },
         {
             "name": "Royal design",
@@ -70,7 +77,8 @@
             "logo": "/images/partners/royaldesign.png",
             "website": "http://royaldesign.se/",
             "facebook": "https://www.facebook.com/RoyalDesign.se",
-            "twitter": "https://twitter.com/RoyalDesigncom"
+            "twitter": "https://twitter.com/RoyalDesigncom",
+            "tags": [".NET", "JavaScript", "React", "Redux"]
         },
         {
             "name": "Play'n GO",
@@ -79,7 +87,8 @@
             "logo": "/images/partners/playgo.png",
             "website": "http://www.playngo.com/",
             "facebook": "https://www.facebook.com/theplayngo",
-            "twitter": "https://twitter.com/theplayngo"
+            "twitter": "https://twitter.com/theplayngo",
+            "tags": [".NET", "Ruby", "JavaScript", "Angular", "RXJS"]
         },
         {
             "name": "Elysium",
@@ -88,7 +97,8 @@
             "logo": "/images/partners/elysium.svg",
             "website": "http://elysium.ai/",
             "facebook": "",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["Machine learning", "AI"]
         },
         {
             "name": "Know-it",
@@ -97,7 +107,8 @@
             "logo": "/images/partners/knowit.png",
             "website": "https://www.knowit.se/",
             "facebook": "https://knowit.se/knowitsolutions/facebook",
-            "twitter": "http://www.twitter.com/knowitab"
+            "twitter": "http://www.twitter.com/knowitab",
+            "tags": ["Konsult"]
         },
         {
             "name": "Aditor",
@@ -106,7 +117,8 @@
             "logo": "/images/partners/aditor.png",
             "website": "https://aditor.se/",
             "facebook": "https://www.facebook.com/aditorab/",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["Konsult"]
         },
         {
             "name": "Kalmar Science park",
@@ -115,7 +127,8 @@
             "logo": "/images/partners/kalmarsciencepark.jpg",
             "website": "https://kalmarsciencepark.se/",
             "facebook": "https://www.facebook.com/KalmarSciencePark/",
-            "twitter": "https://twitter.com/ksciencepark"
+            "twitter": "https://twitter.com/ksciencepark",
+            "tags": []
         },
         {
             "name": "Codebet",
@@ -124,7 +137,8 @@
             "logo": "/images/partners/codebet.svg",
             "facebook": "https://www.facebook.com/codebet.se/",
             "twitter": "",
-            "website": "https://codebet.se/"
+            "website": "https://codebet.se/",
+            "tags": ["JavaScript", "React", "ReactNative", "Redux", "Node", "Laravel"]
         },
         {
             "name": "Sigma",
@@ -133,7 +147,10 @@
             "logo": "/images/partners/sigma.png",
             "website": "https://sigmatechnology.se/",
             "facebook": "https://www.facebook.com/sigmatechnologygroup",
-            "twitter": ""
+            "twitter": "",
+            "tags": [
+                "Konsult"
+            ]
         },
         {
             "name": "Beanloop",
@@ -142,7 +159,15 @@
             "logo": "/images/partners/beanloop.png",
             "website": "https://beanloop.se/",
             "facebook": "https://www.facebook.com/beanloopab/",
-            "twitter": "https://twitter.com/beanloopdev"
+            "twitter": "https://twitter.com/beanloopdev",
+            "tags": [
+                "JavaScript",
+                "React",
+                "ReactNative",
+                "Redux",
+                "Node",
+                "PHP"
+            ]
         },
         {
             "name": "Webready",
@@ -151,7 +176,8 @@
             "logo": "/images/partners/webready.png",
             "website": "https://webready.se/",
             "facebook": "https://www.facebook.com/webready/",
-            "twitter": "https://twitter.com/webready_se"
+            "twitter": "https://twitter.com/webready_se",
+            "tags": ["PHP", "JavaScript", "WordPress", "Laravel", "React", "Vue"]
         },
         {
             "name": "Tieto",
@@ -160,7 +186,8 @@
             "logo": "/images/partners/tieto.jpg",
             "website": "https://www.tieto.se/",
             "facebook": "https://www.facebook.com/pages/Tieto-Sweden-AB/144522012270182",
-            "twitter": "https://twitter.com/tietosverige"
+            "twitter": "https://twitter.com/tietosverige",
+            "tags": ["Konsult"]
         },
         {
             "name": "CGI",
@@ -169,7 +196,8 @@
             "logo": "/images/partners/cgi.png",
             "website": "https://www.cgi.se/",
             "facebook": "https://www.facebook.com/cgisverige/",
-            "twitter": "https://twitter.com/cgi_se"
+            "twitter": "https://twitter.com/cgi_se",
+            "tags": ["Konsult"]
         },
         {
             "name": "Outnorth",
@@ -178,7 +206,8 @@
             "logo": "/images/partners/outnorth.webp",
             "website": "http://www.outnorth.se/",
             "facebook": "http://www.facebook.com/outnorth.com",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["e-handel", "Ruby", "Rubby on rails", "JavaScript"]
         },
         {
             "name": "Visma Comenius",
@@ -187,7 +216,8 @@
             "logo": "/images/partners/visma.png",
             "website": "http://www.comenius.se/",
             "facebook": "https://www.facebook.com/vismasverige",
-            "twitter": "https://twitter.com/vismasverige"
+            "twitter": "https://twitter.com/vismasverige",
+            "tags": [".NET", "JavaScript"]
         },
         {
             "name": "Wilson creative",
@@ -196,7 +226,8 @@
             "logo": "/images/partners/wilsoncreative.png",
             "website": "https://wilsoncreative.se/",
             "facebook": "https://www.facebook.com/wilsoncreative/",
-            "twitter": "https://twitter.com/wilson_creative"
+            "twitter": "https://twitter.com/wilson_creative",
+            "tags": ["PHP", "WordPress", "Laravel", "JavaScript"]
         },
         {
             "name": "Kalmar Landsting IT",
@@ -205,7 +236,8 @@
             "logo": "/images/partners/kalmarlandstingit.svg",
             "website": "http://www.ltkalmar.se/",
             "facebook": "https://www.facebook.com/LandstingetiKalmarlan/",
-            "twitter": "https://twitter.com/ltkalmar"
+            "twitter": "https://twitter.com/ltkalmar",
+            "tags": []
         },
         {
             "name": "Södra",
@@ -214,7 +246,8 @@
             "logo": "/images/partners/sodra.jpeg",
             "website": "https://www.sodra.com/sv/",
             "facebook": "https://www.facebook.com/sodragroup",
-            "twitter": "https://twitter.com/sodra"
+            "twitter": "https://twitter.com/sodra",
+            "tags": ["JavaScript", "ReactNative", "Swift"]
         },
         {
             "name": "Viva media",
@@ -223,7 +256,8 @@
             "logo": "/images/partners/vivamedia.svg",
             "website": "https://vivamedia.se/",
             "facebook": "https://facebook.com/vivamediagroup",
-            "twitter": "https://twitter.com/VivaMediaAB"
+            "twitter": "https://twitter.com/VivaMediaAB",
+            "tags": [".NET", "JavaScript"]
         },
         {
             "name": "Konica Minolta",
@@ -232,7 +266,12 @@
             "logo": "/images/partners/konicaminolta.svg",
             "website": "https://www.konicaminolta.com/se-sv/index.html",
             "facebook": "",
-            "twitter": ""
+            "twitter": "",
+            "tags": [
+                ".NET",
+                "JavaScript",
+                "Angular"
+            ]
         },
         {
             "name": "Otimo data",
@@ -241,7 +280,8 @@
             "logo": "/images/partners/otimo.png",
             "website": "http://www.otimo.se/",
             "facebook": "https://www.facebook.com/otimodata/",
-            "twitter": ""
+            "twitter": "",
+            "tags": [".NET", "JavaScript"]
         },
         {
             "name": "Lindmark och partner",
@@ -250,7 +290,8 @@
             "logo": "/images/partners/lindmarkpartner.svg",
             "website": "https://lindmarkpartner.se/",
             "facebook": "https://www.facebook.com/lindmarkpartner",
-            "twitter": "https://twitter.com/lindmarkpartner"
+            "twitter": "https://twitter.com/lindmarkpartner",
+            "tags": ["PHP", "JavaScript", "WordPress"]
         },
         {
             "name": "Electra",
@@ -259,7 +300,9 @@
             "logo": "/images/partners/electra.svg",
             "website": "https://www.electra.se/",
             "facebook": "https://www.facebook.com/pages/Electra-Sweden-AB/159157397616750",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["e-handel",
+                ".NET", "JavaScript", "Angular"]
         },
         {
             "name": "Apirix",
@@ -268,7 +311,8 @@
             "logo": "/images/partners/apirix.png",
             "website": "http://www.apirix.se/",
             "facebook": "https://www.facebook.com/ApirixAB/",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["Java", ".NET", "JavaScript", "Angular"]
         },
         {
             "name": "Design online",
@@ -277,7 +321,8 @@
             "logo": "/images/partners/designonline.webp",
             "website": "https://www.designonline.se/",
             "facebook": "https://www.facebook.com/designonline.se",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["e-handel", ".NET"]
         },
         {
             "name": "Easyfy",
@@ -286,7 +331,8 @@
             "logo": "/images/partners/easyfy.svg",
             "website": "https://www.easyfy.se/",
             "facebook": "https://www.facebook.com/Easyfy/",
-            "twitter": "https://twitter.com/easyfy"
+            "twitter": "https://twitter.com/easyfy",
+            "tags": ["e-handel", ".NET", "JavaScript"]
         },
         {
             "name": "Softhouse",
@@ -295,7 +341,8 @@
             "logo": "/images/partners/softhouse.png",
             "website": "http://www.softhouse.se/",
             "facebook": "https://www.facebook.com/softhouseconsulting/",
-            "twitter": "https://twitter.com/softhousesh"
+            "twitter": "https://twitter.com/softhousesh",
+            "tags": ["Konsult"]
         },
         {
             "name": "Contribe",
@@ -304,7 +351,8 @@
             "logo": "/images/partners/contribe.webp",
             "website": "http://www.contribe.se/",
             "facebook": "http://www.facebook.com/pages/Contribe/187646001286868",
-            "twitter": "https://twitter.com/IT_konsult"
+            "twitter": "https://twitter.com/IT_konsult",
+            "tags": ["Konsult", "Java", ".NET"]
         },
         {
             "name": "Kodbruket",
@@ -313,7 +361,8 @@
             "logo": "/images/partners/kodbruket.png",
             "website": "https://kodbruket.se/",
             "facebook": "https://www.facebook.com/kodbruket/",
-            "twitter": "https://twitter.com/kodbruket"
+            "twitter": "https://twitter.com/kodbruket",
+            "tags": ["e-handel", "PHP", "Laravel", "JavaScript", "React"]
         },
         {
             "name": "Milou",
@@ -322,7 +371,8 @@
             "logo": "/images/partners/milou.jpg",
             "website": "http://www.milou.se/",
             "facebook": "https://www.facebook.com/miloucommunication",
-            "twitter": "https://twitter.com/milou_se"
+            "twitter": "https://twitter.com/milou_se",
+            "tags": ["e-handel", ".NET", "JavaScript", "React", "Angular", "WordPress"]
         },
         {
             "name": "Hypergen",
@@ -331,7 +381,8 @@
             "logo": "/images/partners/hypergene.svg",
             "website": "http://www.hypergene.se/",
             "facebook": "",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["ERP", "BI"]
         },
         {
             "name": "Merit Consulting",
@@ -340,7 +391,8 @@
             "logo": "/images/partners/merit.png",
             "website": "https://www.meritglobe.com/se/",
             "facebook": "https://www.facebook.com/MeritConsulting",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["ERP", "BI"]
         },
         {
             "name": "Internetbyrån",
@@ -349,7 +401,8 @@
             "logo": "/images/partners/internetbyran.png",
             "website": "https://www.internetbyran.com/",
             "facebook": "https://www.facebook.com/internetbyran/",
-            "twitter": ""
+            "twitter": "",
+            "tags": ["PHP", "WordPress", "JavaScript"]
         },
         {
             "name": "Kreation",
@@ -358,7 +411,13 @@
             "logo": "/images/partners/kreation.png",
             "website": "https://kreation.se/",
             "facebook": "https://sv-se.facebook.com/kreationreklam",
-            "twitter": ""
+            "twitter": "",
+            "tags": [
+                ".NET",
+                "PHP",
+                "WordPress",
+                "JavaScript"
+            ]
         },
         {
             "name": "Connect media",
@@ -367,7 +426,13 @@
             "logo": "/images/partners/connectmedia.svg",
             "website": "https://www.connectmedia.se/",
             "facebook": "https://www.facebook.com/ConnectMedia/",
-            "twitter": ""
+            "twitter": "",
+            "tags": [
+                ".NET",
+                "PHP",
+                "WordPress",
+                "JavaScript"
+            ]
         },
         {
             "name": "Kalmar NDC",
@@ -376,7 +441,8 @@
             "logo": "/images/partners/kalmarndc.png",
             "website": "http://kalmarndc.se/",
             "twitter": "https://twitter.com/KalmarNDC",
-            "facebook": "https://www.facebook.com/kalmarndc/"
+            "facebook": "https://www.facebook.com/kalmarndc/",
+            "tags": []
         },
         {
             "name": "Alpacha",
@@ -385,7 +451,12 @@
             "logo": "/images/partners/alpacha.png",
             "website": "https://www.alpacha.se/",
             "facebook": "http://www.facebook.com/AlpachaAB?fref=ts",
-            "twitter": "http://www.twitter.com/Alpacha_AB"
+            "twitter": "http://www.twitter.com/Alpacha_AB",
+            "tags": [
+                ".NET",
+                "PHP",
+                "JavaScript"
+            ]
         }
     ]
 }
