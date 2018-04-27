@@ -12,13 +12,12 @@
                             "props": {
                                 "title": "IT-jobben finns i Kalmar",
                                 "fitScreen": true,
-                                "backgroundImage": ["images/cover.jpg", "images/cover@large.jpg"],
+                                "backgroundImage": "images/cover.jpg",
                                 "style": {
                                     "backgroundSize": "cover",
                                     "fontSize": "60px",
                                     "textAlign": "center",
-                                    "color": "white",
-                                    "textShadow": "0 1px 3px rgba(0, 0, 0, 0.55)"
+                                    "color": "white"
                                 }
                             }
                         },
@@ -55,7 +54,7 @@
                                                     "component": "Header",
                                                     "props": {
                                                         "number": 2,
-                                                        "title": "Besök vår Facebook, klicka här",
+                                                        "title": "Besök vår Facebooksida, klicka här",
                                                         "style": {
                                                             "top": 0,
                                                             "right": 0,
@@ -113,6 +112,98 @@
                             "props": {
                                 "style": {
                                     "background": "white"
+                                }
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        "about": {
+            "display": "Om sidan",
+            "route": "/om-it-jobb-i-kalmar",
+            "scene": "Page",
+            "style": {
+                "background": "white"
+            },
+            "content": {
+                "sections": [
+                    [
+                        {
+                            "component": "Header",
+                            "props": {
+                                "title": "Om IT-jobb i Kalmar",
+                                "style": {
+                                    "fontSize": "30px",
+                                    "textAlign": "center",
+                                    "color": "#013760",
+                                    "background": "#fafafa",
+                                    "padding": "120px 40px 40px 40px"
+                                }
+                            }
+                        },
+                        {
+                            "component": "Text",
+                            "props": {
+                                "children": "Den här sidan är skapad för att boosta Kalmarregionens IT-bransch och IT-företag.",
+                                "style": {
+                                    "padding": "20px 40px 0 40px",
+                                    "textAlign": "left",
+                                    "fontSize": "22px",
+                                    "fontWeight": "800",
+                                    "lineHeight": "34px"
+                                }
+                            }
+                        },
+                        {
+                            "component": "Text",
+                            "props": {
+                                "children": "Vårt mål är att kunna hjälpa studenter, nyinflyttade, eller helt enkelt vem som helst som känner att det är dags för att ta nästa steg i karriären inom IT-branschen.",
+                                "style": {
+                                    "padding": "0 40px",
+                                    "textAlign": "left",
+                                    "fontSize": "18px",
+                                    "lineHeight": "30px"
+                                }
+                            }
+                        },
+                        {
+                            "component": "Text",
+                            "props": {
+                                "children": "Om ni vill komma i kontakt med oss, ändra, lägga till, ta bort information eller liknande så är det enklast att maila oss på kontakt@itjobbikalmar.se eller skriva på Facebook.",
+                                "style": {
+                                    "padding": "0 40px",
+                                    "textAlign": "left",
+                                    "fontSize": "18px",
+                                    "lineHeight": "30px"
+                                }
+                            }
+                        },
+                        {
+                            "component": "Text",
+                            "props": {
+                                "children": "Eftersom vi förväntar oss en del IT-nördar här så kan vi även berätta att siten är skapad med hjälp av följande verktyg",
+                                "style": {
+                                    "padding": "0 40px 0 10px",
+                                    "margin": "60px 0 0 40px",
+                                    "textAlign": "left",
+                                    "fontSize": "18px",
+                                    "fontWeight": "800",
+                                    "lineHeight": "30px",
+                                    "borderLeft": "4px solid #013760"
+                                }
+                            }
+                        },
+                        {
+                            "component": "List",
+                            "props": {
+                                "children": ["- React (create react app) https://github.com/facebook/create-react-app", "- Github https://github.com", "- Travis CI https://travis-ci.org","- Amazon S3 static website hosting https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html","- Amazon CloudFront https://aws.amazon.com/cloudfront/","- Amazon Certificate Manager https://aws.amazon.com/certificate-manager"],
+                                "style": {
+                                    "listStyleType": "none",
+                                    "padding": "0 40px",
+                                    "textAlign": "left",
+                                    "fontSize": "16px",
+                                    "lineHeight": "28px"
                                 }
                             }
                         }
