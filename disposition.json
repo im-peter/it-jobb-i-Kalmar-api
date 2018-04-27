@@ -108,7 +108,7 @@
                             }
                         },
                         {
-                            "component": "Partners",
+                            "component": "CompaniesLogos",
                             "props": {
                                 "style": {
                                     "background": "white"
@@ -116,6 +116,39 @@
                             }
                         }
                     ]
+                ]
+            }
+        },
+        "listings": {
+            "display": "Se alla jobb",
+            "route": "https://www.facebook.com/itjobbikalmar/",
+            "scene": null,
+            "content": {
+                "sections": [
+                    [
+                        {
+                            "component": "Header",
+                            "props": {
+                                "backgroundImage": "images/listings-cover.jpg",
+                                "style": {
+                                    "height": "400px",
+                                    "backgroundSize": "cover",
+                                    "backgroundPosition": "top right"
+                                }
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        "companies": {
+            "display": "Företag",
+            "route": "/foretag",
+            "scene": "Companies",
+            "dataSrc": "partners",
+            "content": {
+                "sections": [
+                    "data"
                 ]
             }
         },
@@ -210,35 +243,6 @@
                     ]
                 ]
             }
-        },
-        "listings": {
-            "display": "Se alla jobb",
-            "route": "https://www.facebook.com/itjobbikalmar/",
-            "scene": null,
-            "content": {
-                "sections": [
-                    [
-                        {
-                            "component": "Header",
-                            "props": {
-                                "backgroundImage": ["images/listings-cover.jpg", "images/listings-cover.jpg"],
-                                "style": {
-                                    "height": "400px",
-                                    "backgroundSize": "cover",
-                                    "backgroundPosition": "top right"
-                                }
-                            }
-                        }
-                    ]
-                ]
-            }
-        },
-        "partners": {
-            "display": "Företag",
-            "route": "/foretag",
-            "scene": "Partners",
-            "dataSrc": "partners",
-            "content": {}
         }
     },
     "menu": {

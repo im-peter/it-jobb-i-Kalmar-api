@@ -44,21 +44,6 @@
             ]
         },
         {
-            "name": "CLX Communications",
-            "description": "CLX erbjuder molnbaserade företagstjänster som underlättar kommunikation med sms, röstmeddelanden och annan mobil data. Företaget har cirka 20 anställda i Kalmar, av totalt cirka 180 anställda, med huvudkontor i Kista och flera filialer världen över.",
-            "level": "gold",
-            "logo": "/images/partners/clx.svg",
-            "website": "https://www.clxcommunications.com/",
-            "facebook": "https://www.facebook.com/clxcommunications/",
-            "twitter": "https://twitter.com/CLXCommsAB",
-            "tags": [
-                "PHP",
-                "JavaScript",
-                "React",
-                "Redux"
-            ]
-        },
-        {
             "name": "E-hälsomyndigheten",
             "description": "Hela 99 procent av alla recept i Sverige är elektroniska. När en läkare skickar iväg ett e-recept från sin dator hamnar det hos oss på eHälsomyndigheten. Alla apotek kan sedan hämta e-receptet och lämna ut läkemedlet till kunden. Detta är ett exempel på hur e-hälsa underlättar vardagen för oss alla. Förutom att ansvara för e-recepten leder vi regeringens satsningar på e-hälsa och erbjuder ett antal e-hälsotjänster.",
             "level": "gold",
@@ -77,6 +62,21 @@
             "facebook": "https://www.facebook.com/ateasverige",
             "twitter": "https://twitter.com/ateasverige",
             "tags": []
+        },
+        {
+            "name": "CLX Communications",
+            "description": "CLX erbjuder molnbaserade företagstjänster som underlättar kommunikation med sms, röstmeddelanden och annan mobil data. Företaget har cirka 20 anställda i Kalmar, av totalt cirka 180 anställda, med huvudkontor i Kista och flera filialer världen över.",
+            "level": "gold",
+            "logo": "/images/partners/clx.svg",
+            "website": "https://www.clxcommunications.com/",
+            "facebook": "https://www.facebook.com/clxcommunications/",
+            "twitter": "https://twitter.com/CLXCommsAB",
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "React",
+                "Redux"
+            ]
         },
         {
             "name": "Vitec",
