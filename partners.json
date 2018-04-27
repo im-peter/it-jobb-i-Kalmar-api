@@ -197,6 +197,20 @@
             ]
         },
         {
+            "name": "Punkt studios",
+            "description": "Interaction Design Studio — Kalmar — San Francisco",
+            "level": "silver",
+            "logo": "/images/partners/punkt-studios-logo.png",
+            "website": "http://www.punkt-studios.com/",
+            "facebook": "https://www.facebook.com/punktstudios/",
+            "twitter": "",
+            "tags": [
+                "UX",
+                "Design",
+                "Interaktionsdesign"
+            ]
+        },
+        {
             "name": "Sigma",
             "description": "Sigma Technology is part of Sigma, and is a global supplier of product information, embedded solutions and offshore development. We are experts with a passion for technology and information, and take pride in delivering quality and constantly improving our deliveries.",
             "level": "silver",
@@ -520,20 +534,6 @@
             "tags": [
                 "ERP",
                 "BI"
-            ]
-        },
-        {
-            "name": "Punkt studios",
-            "description": "Interaction Design Studio — Kalmar — San Francisco",
-            "level": "bronze",
-            "logo": "/images/partners/punkt-studios-logo.png",
-            "website": "http://www.punkt-studios.com/",
-            "facebook": "https://www.facebook.com/punktstudios/",
-            "twitter": "",
-            "tags": [
-                "UX",
-                "Design",
-                "Interaktionsdesign"
             ]
         },
         {
