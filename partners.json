@@ -167,7 +167,17 @@
             "website": "https://kalmarsciencepark.se/",
             "facebook": "https://www.facebook.com/KalmarSciencePark/",
             "twitter": "https://twitter.com/ksciencepark",
-            "tags": []
+            "tags": ["Innovation", "Utveckling", "Digitalisering"]
+        },
+        {
+            "name": "IEC",
+            "description": "IEC är bryggan mellan IT-forskare och det omgivande samhället – ett nätverk som arbetar med frågor som rör utbildning, forskning & utveckling, kunskapsutbyte och kompetensförsörjning  inom den digitala sektorn. IEC är ett icke vinstdrivande kluster med medlemmar från näringslivet, akademin och offentlig sektor. Medlemmarna arbetar tillsammans med frågor som rör utbildning, forskning & utveckling och kunskapsutbyte inom digitalisering.",
+            "level": "silver",
+            "logo": "/images/partners/iec2016.png",
+            "website": "http://iec2020.se/",
+            "facebook": "https://www.facebook.com/IECLNU/",
+            "twitter": "https://twitter.com/IECLNU",
+            "tags": ["Innovation", "Utveckling", "Digitalisering"]
         },
         {
             "name": "Codebet",
@@ -566,6 +576,20 @@
                 "PHP",
                 "WordPress",
                 "JavaScript"
+            ]
+        },
+        {
+            "name": "Define",
+            "description": "Define skapar morgondagens digitala tjänster genom förståelse för mänskliga beteenden. Vi och våra uppdragsgivare är överens om att bra kundupplevelser ökar lönsamheten och effektiviteten i den digitala världen. Bra kundupplevelser kommer ur förståelsen för de bakomliggande mänskliga beteenden som styr.",
+            "level": "bronze",
+            "logo": "/images/partners/define-logo.png",
+            "website": "http://define.se/",
+            "facebook": "https://www.facebook.com/defineSE/",
+            "twitter": "",
+            "tags": [
+                "UX",
+                "Design",
+                "Interaktionsdesign"
             ]
         },
         {
