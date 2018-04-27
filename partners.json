@@ -513,6 +513,20 @@
             ]
         },
         {
+            "name": "Punkt studios",
+            "description": "Interaction Design Studio — Kalmar — San Francisco",
+            "level": "bronze",
+            "logo": "/images/partners/punktstudios.svg",
+            "website": "http://www.punkt-studios.com/",
+            "facebook": "https://www.facebook.com/punktstudios/",
+            "twitter": "",
+            "tags": [
+                "UX",
+                "Design",
+                "Interaktionsdesign"
+            ]
+        },
+        {
             "name": "Merit Consulting",
             "description": "Merit är en ledande leverantör av konsulttjänster och programvara inom affärsprocesser och implementering av ERP-system. Merit erbjuder kunder större konkurrenskraft genom implementering och verkställande av moderna integrerade standardlösningar. Med våra djupa branschkunskaper, affärsexpertis och erfarenhet hjälper vid dig att omvandla information till relevant kunskap – därav vår slogan: Turning Knowledge into Value.",
             "level": "bronze",
@@ -537,20 +551,6 @@
                 "PHP",
                 "WordPress",
                 "JavaScript"
-            ]
-        },
-        {
-            "name": "Punkt studios",
-            "description": "Interaction Design Studio — Kalmar — San Francisco",
-            "level": "bronze",
-            "logo": "/images/partners/punkt-studios-logo.png",
-            "website": "http://www.punkt-studios.com/",
-            "facebook": "https://www.facebook.com/punktstudios/",
-            "twitter": "",
-            "tags": [
-                "UX",
-                "Design",
-                "Interaktionsdesign"
             ]
         },
         {
