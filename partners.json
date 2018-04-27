@@ -18,7 +18,17 @@
             "website": "https://www.infomaker.se/",
             "facebook": "https://www.facebook.com/infomakerscandinavia/",
             "twitter": "https://twitter.com/infomakernews",
-            "tags": ["JavaScript", "React", "Redux", "Node", "Cloud", "Amazon", "Java", "Swift", ""]
+            "tags": [
+                "JavaScript",
+                "React",
+                "Redux",
+                "Node",
+                "Cloud",
+                "Amazon",
+                "Java",
+                "Swift",
+                "Kotlin"
+            ]
         },
         {
             "name": "Meridium",
@@ -28,7 +38,10 @@
             "website": "https://meridium.se",
             "facebook": "https://sv-se.facebook.com/meridiumab",
             "twitter": "https://twitter.com/meridium",
-            "tags": [".NET", "JavaScript"]
+            "tags": [
+                ".NET",
+                "JavaScript"
+            ]
         },
         {
             "name": "CLX Communications",
@@ -38,7 +51,12 @@
             "website": "https://www.clxcommunications.com/",
             "facebook": "https://www.facebook.com/clxcommunications/",
             "twitter": "https://twitter.com/CLXCommsAB",
-            "tags": ["PHP", "JavaScript", "React", "Redux"]
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "React",
+                "Redux"
+            ]
         },
         {
             "name": "E-hälsomyndigheten",
@@ -68,7 +86,10 @@
             "website": "https://www.vitecsoftware.com/sv/",
             "facebook": "https://www.facebook.com/Vitec-Bygg-Fastighet-184650441568005/",
             "twitter": "https://twitter.com/vitecfastighet",
-            "tags": [".NET", "JavaScript"]
+            "tags": [
+                ".NET",
+                "JavaScript"
+            ]
         },
         {
             "name": "Royal design",
@@ -78,7 +99,12 @@
             "website": "http://royaldesign.se/",
             "facebook": "https://www.facebook.com/RoyalDesign.se",
             "twitter": "https://twitter.com/RoyalDesigncom",
-            "tags": [".NET", "JavaScript", "React", "Redux"]
+            "tags": [
+                ".NET",
+                "JavaScript",
+                "React",
+                "Redux"
+            ]
         },
         {
             "name": "Play'n GO",
@@ -88,7 +114,13 @@
             "website": "http://www.playngo.com/",
             "facebook": "https://www.facebook.com/theplayngo",
             "twitter": "https://twitter.com/theplayngo",
-            "tags": [".NET", "Ruby", "JavaScript", "Angular", "RXJS"]
+            "tags": [
+                ".NET",
+                "Ruby",
+                "JavaScript",
+                "Angular",
+                "RXJS"
+            ]
         },
         {
             "name": "Elysium",
@@ -98,7 +130,10 @@
             "website": "http://elysium.ai/",
             "facebook": "",
             "twitter": "",
-            "tags": ["Machine learning", "AI"]
+            "tags": [
+                "Machine learning",
+                "AI"
+            ]
         },
         {
             "name": "Know-it",
@@ -108,7 +143,9 @@
             "website": "https://www.knowit.se/",
             "facebook": "https://knowit.se/knowitsolutions/facebook",
             "twitter": "http://www.twitter.com/knowitab",
-            "tags": ["Konsult"]
+            "tags": [
+                "Konsult"
+            ]
         },
         {
             "name": "Aditor",
@@ -118,7 +155,9 @@
             "website": "https://aditor.se/",
             "facebook": "https://www.facebook.com/aditorab/",
             "twitter": "",
-            "tags": ["Konsult"]
+            "tags": [
+                "Konsult"
+            ]
         },
         {
             "name": "Kalmar Science park",
@@ -138,7 +177,14 @@
             "facebook": "https://www.facebook.com/codebet.se/",
             "twitter": "",
             "website": "https://codebet.se/",
-            "tags": ["JavaScript", "React", "ReactNative", "Redux", "Node", "Laravel"]
+            "tags": [
+                "JavaScript",
+                "React",
+                "ReactNative",
+                "Redux",
+                "Node",
+                "Laravel"
+            ]
         },
         {
             "name": "Sigma",
@@ -177,7 +223,14 @@
             "website": "https://webready.se/",
             "facebook": "https://www.facebook.com/webready/",
             "twitter": "https://twitter.com/webready_se",
-            "tags": ["PHP", "JavaScript", "WordPress", "Laravel", "React", "Vue"]
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "WordPress",
+                "Laravel",
+                "React",
+                "Vue"
+            ]
         },
         {
             "name": "Tieto",
@@ -187,7 +240,9 @@
             "website": "https://www.tieto.se/",
             "facebook": "https://www.facebook.com/pages/Tieto-Sweden-AB/144522012270182",
             "twitter": "https://twitter.com/tietosverige",
-            "tags": ["Konsult"]
+            "tags": [
+                "Konsult"
+            ]
         },
         {
             "name": "CGI",
@@ -197,7 +252,9 @@
             "website": "https://www.cgi.se/",
             "facebook": "https://www.facebook.com/cgisverige/",
             "twitter": "https://twitter.com/cgi_se",
-            "tags": ["Konsult"]
+            "tags": [
+                "Konsult"
+            ]
         },
         {
             "name": "Outnorth",
@@ -207,7 +264,12 @@
             "website": "http://www.outnorth.se/",
             "facebook": "http://www.facebook.com/outnorth.com",
             "twitter": "",
-            "tags": ["e-handel", "Ruby", "Rubby on rails", "JavaScript"]
+            "tags": [
+                "e-handel",
+                "Ruby",
+                "Rubby on rails",
+                "JavaScript"
+            ]
         },
         {
             "name": "Visma Comenius",
@@ -217,7 +279,10 @@
             "website": "http://www.comenius.se/",
             "facebook": "https://www.facebook.com/vismasverige",
             "twitter": "https://twitter.com/vismasverige",
-            "tags": [".NET", "JavaScript"]
+            "tags": [
+                ".NET",
+                "JavaScript"
+            ]
         },
         {
             "name": "Wilson creative",
@@ -227,7 +292,12 @@
             "website": "https://wilsoncreative.se/",
             "facebook": "https://www.facebook.com/wilsoncreative/",
             "twitter": "https://twitter.com/wilson_creative",
-            "tags": ["PHP", "WordPress", "Laravel", "JavaScript"]
+            "tags": [
+                "PHP",
+                "WordPress",
+                "Laravel",
+                "JavaScript"
+            ]
         },
         {
             "name": "Kalmar Landsting IT",
@@ -247,7 +317,11 @@
             "website": "https://www.sodra.com/sv/",
             "facebook": "https://www.facebook.com/sodragroup",
             "twitter": "https://twitter.com/sodra",
-            "tags": ["JavaScript", "ReactNative", "Swift"]
+            "tags": [
+                "JavaScript",
+                "ReactNative",
+                "Swift"
+            ]
         },
         {
             "name": "Viva media",
@@ -257,7 +331,10 @@
             "website": "https://vivamedia.se/",
             "facebook": "https://facebook.com/vivamediagroup",
             "twitter": "https://twitter.com/VivaMediaAB",
-            "tags": [".NET", "JavaScript"]
+            "tags": [
+                ".NET",
+                "JavaScript"
+            ]
         },
         {
             "name": "Konica Minolta",
@@ -281,7 +358,10 @@
             "website": "http://www.otimo.se/",
             "facebook": "https://www.facebook.com/otimodata/",
             "twitter": "",
-            "tags": [".NET", "JavaScript"]
+            "tags": [
+                ".NET",
+                "JavaScript"
+            ]
         },
         {
             "name": "Lindmark och partner",
@@ -291,7 +371,11 @@
             "website": "https://lindmarkpartner.se/",
             "facebook": "https://www.facebook.com/lindmarkpartner",
             "twitter": "https://twitter.com/lindmarkpartner",
-            "tags": ["PHP", "JavaScript", "WordPress"]
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "WordPress"
+            ]
         },
         {
             "name": "Electra",
@@ -301,8 +385,12 @@
             "website": "https://www.electra.se/",
             "facebook": "https://www.facebook.com/pages/Electra-Sweden-AB/159157397616750",
             "twitter": "",
-            "tags": ["e-handel",
-                ".NET", "JavaScript", "Angular"]
+            "tags": [
+                "e-handel",
+                ".NET",
+                "JavaScript",
+                "Angular"
+            ]
         },
         {
             "name": "Apirix",
@@ -312,7 +400,14 @@
             "website": "http://www.apirix.se/",
             "facebook": "https://www.facebook.com/ApirixAB/",
             "twitter": "",
-            "tags": ["Java", ".NET", "JavaScript", "Angular"]
+            "tags": [
+                "Java",
+                "Swift",
+                "Kotlin",
+                ".NET",
+                "JavaScript",
+                "Angular"
+            ]
         },
         {
             "name": "Design online",
@@ -322,7 +417,10 @@
             "website": "https://www.designonline.se/",
             "facebook": "https://www.facebook.com/designonline.se",
             "twitter": "",
-            "tags": ["e-handel", ".NET"]
+            "tags": [
+                "e-handel",
+                ".NET"
+            ]
         },
         {
             "name": "Easyfy",
@@ -332,7 +430,11 @@
             "website": "https://www.easyfy.se/",
             "facebook": "https://www.facebook.com/Easyfy/",
             "twitter": "https://twitter.com/easyfy",
-            "tags": ["e-handel", ".NET", "JavaScript"]
+            "tags": [
+                "e-handel",
+                ".NET",
+                "JavaScript"
+            ]
         },
         {
             "name": "Softhouse",
@@ -342,7 +444,9 @@
             "website": "http://www.softhouse.se/",
             "facebook": "https://www.facebook.com/softhouseconsulting/",
             "twitter": "https://twitter.com/softhousesh",
-            "tags": ["Konsult"]
+            "tags": [
+                "Konsult"
+            ]
         },
         {
             "name": "Contribe",
@@ -352,7 +456,11 @@
             "website": "http://www.contribe.se/",
             "facebook": "http://www.facebook.com/pages/Contribe/187646001286868",
             "twitter": "https://twitter.com/IT_konsult",
-            "tags": ["Konsult", "Java", ".NET"]
+            "tags": [
+                "Konsult",
+                "Java",
+                ".NET"
+            ]
         },
         {
             "name": "Kodbruket",
@@ -362,7 +470,13 @@
             "website": "https://kodbruket.se/",
             "facebook": "https://www.facebook.com/kodbruket/",
             "twitter": "https://twitter.com/kodbruket",
-            "tags": ["e-handel", "PHP", "Laravel", "JavaScript", "React"]
+            "tags": [
+                "e-handel",
+                "PHP",
+                "Laravel",
+                "JavaScript",
+                "React"
+            ]
         },
         {
             "name": "Milou",
@@ -372,7 +486,18 @@
             "website": "http://www.milou.se/",
             "facebook": "https://www.facebook.com/miloucommunication",
             "twitter": "https://twitter.com/milou_se",
-            "tags": ["e-handel", ".NET", "JavaScript", "React", "Angular", "WordPress"]
+            "tags": [
+                "e-handel",
+                ".NET",
+                "JavaScript",
+                "React",
+                "Angular",
+                "WordPress",
+                "UX",
+                "Design",
+                "Interaktionsdesign",
+                "Projektledning"
+            ]
         },
         {
             "name": "Hypergen",
@@ -382,7 +507,10 @@
             "website": "http://www.hypergene.se/",
             "facebook": "",
             "twitter": "",
-            "tags": ["ERP", "BI"]
+            "tags": [
+                "ERP",
+                "BI"
+            ]
         },
         {
             "name": "Merit Consulting",
@@ -392,7 +520,10 @@
             "website": "https://www.meritglobe.com/se/",
             "facebook": "https://www.facebook.com/MeritConsulting",
             "twitter": "",
-            "tags": ["ERP", "BI"]
+            "tags": [
+                "ERP",
+                "BI"
+            ]
         },
         {
             "name": "Internetbyrån",
@@ -402,7 +533,25 @@
             "website": "https://www.internetbyran.com/",
             "facebook": "https://www.facebook.com/internetbyran/",
             "twitter": "",
-            "tags": ["PHP", "WordPress", "JavaScript"]
+            "tags": [
+                "PHP",
+                "WordPress",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Punkt studios",
+            "description": "Interaction Design Studio — Kalmar — San Francisco",
+            "level": "bronze",
+            "logo": "/images/partners/punkt-studios-logo.png",
+            "website": "http://www.punkt-studios.com/",
+            "facebook": "https://www.facebook.com/punktstudios/",
+            "twitter": "",
+            "tags": [
+                "UX",
+                "Design",
+                "Interaktionsdesign"
+            ]
         },
         {
             "name": "Kreation",
