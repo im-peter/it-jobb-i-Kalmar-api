@@ -25,73 +25,85 @@
                             "component": "Boxes",
                             "props": {
                                 "style": {
-                                    "maxWidth": "900px",
+                                    "maxWidth": "1100px",
                                     "margin": "0 auto"
                                 },
-                                "children": [{
-                                    "component": "Box",
-                                    "props": {
-                                        "children": [{
-                                            "component": "Header",
-                                            "props": {
-                                                "title": "Visa alla IT-jobb",
-                                                "style": {
-                                                    "padding": "20px",
-                                                    "backgroundColor": "#003760",
-                                                    "fontFamily": "'Titillium Web', sans-serif"
-                                                }
-                                            }
-                                        }, {
-                                            "component": "NavLink",
-                                            "props": {
-                                                "to": "https://www.facebook.com/itjobbikalmar/",
-                                                "target": "_blank",
-                                                "style": {
-                                                    "position": "relative",
-                                                    "minHeight": "400px"
-                                                },
-                                                "children": [{
+                                "children": [
+                                    {
+                                        "component": "Box",
+                                        "props": {
+                                            "children": [
+                                                {
                                                     "component": "Header",
                                                     "props": {
-                                                        "number": 2,
-                                                        "title": "Besök vår Facebooksida, klicka här",
+                                                        "title": "Visa alla IT-jobb",
                                                         "style": {
-                                                            "top": 0,
-                                                            "right": 0,
-                                                            "bottom": 0,
-                                                            "left": 0,
-                                                            "background": "url(images/listings-cover.jpg)",
-                                                            "backgroundSize": "cover",
-                                                            "fontSize": "30px",
-                                                            "textAlign": "center",
-                                                            "display": "flex",
-                                                            "position": "absolute",
-                                                            "fontFamily": "'Titillium Web', sans-serif",
-                                                            "backgroundPosition": "center center"
+                                                            "padding": "20px",
+                                                            "borderRadius": "10px 10px 0 0",
+                                                            "backgroundColor": "#006058",
+                                                            "fontFamily": "'Titillium Web', sans-serif"
                                                         }
-                                                    }                                                   
-                                                }]
-                                            }
-                                        }, {
-                                            "component": "Text",
-                                            "props": {
-                                                "children": "På vår Facebook-sida så hittar du alla de senaste jobbannonserna.",
-                                                "style": {
-                                                    "padding": "0 20px",
-                                                    "textAlign": "center"
+                                                    }
+                                                },
+                                                {
+                                                    "component": "NavLink",
+                                                    "props": {
+                                                        "to": "https://www.facebook.com/itjobbikalmar/",
+                                                        "target": "_blank",
+                                                        "style": {
+                                                            "position": "relative",
+                                                            "minHeight": "400px"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "component": "Header",
+                                                                "props": {
+                                                                    "number": 2,
+                                                                    "style": {
+                                                                        "top": 0,
+                                                                        "right": 0,
+                                                                        "bottom": 0,
+                                                                        "left": 0,
+                                                                        "background": "url(images/listings-cover.jpg)",
+                                                                        "backgroundSize": "cover",
+                                                                        "fontSize": "30px",
+                                                                        "textAlign": "center",
+                                                                        "display": "flex",
+                                                                        "position": "absolute",
+                                                                        "fontFamily": "'Titillium Web', sans-serif",
+                                                                        "backgroundPosition": "center center"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "component": "Text",
+                                                    "props": {
+                                                        "children": "På vår Facebook-sida så hittar du alla de senaste jobbannonserna.",
+                                                        "style": {
+                                                            "background": "white",
+                                                            "padding": "20px",
+                                                            "borderRadius": "0 0 10px 10px",
+                                                            "margin": 0,
+                                                            "height": "50px",
+                                                            "textAlign": "center"
+                                                        }
+                                                    }
                                                 }
+                                            ],
+                                            "style": {
+                                                "overflow": "hidden",
+                                                "flex": 2,
+                                                "padding": "20px"
+                                            },
+                                            "innerStyle": {
+                                                "height": "auto"
                                             }
-                                        }],
-                                        "style": {
-                                            "overflow": "hidden",
-                                            "flex": 2,
-                                            "padding": 0
-                                        },
-                                        "innerStyle": {
-                                            "height": "auto"
                                         }
                                     }
-                                }]
+                                ]
                             }
                         }
                     ],
@@ -230,7 +242,14 @@
                         {
                             "component": "List",
                             "props": {
-                                "children": ["- React (create react app) https://github.com/facebook/create-react-app", "- Github https://github.com", "- Travis CI https://travis-ci.org","- Amazon S3 static website hosting https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html","- Amazon CloudFront https://aws.amazon.com/cloudfront/","- Amazon Certificate Manager https://aws.amazon.com/certificate-manager"],
+                                "children": [
+                                    "- React (create react app) https://github.com/facebook/create-react-app",
+                                    "- Github https://github.com",
+                                    "- Travis CI https://travis-ci.org",
+                                    "- Amazon S3 static website hosting https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html",
+                                    "- Amazon CloudFront https://aws.amazon.com/cloudfront/",
+                                    "- Amazon Certificate Manager https://aws.amazon.com/certificate-manager"
+                                ],
                                 "style": {
                                     "listStyleType": "none",
                                     "padding": "0 40px",
@@ -255,6 +274,6 @@
         "style": {
             "backgroundColor": "rgba(0, 0, 0, 0.5)",
             "color": "white"
-        } 
+        }
     }
 }
