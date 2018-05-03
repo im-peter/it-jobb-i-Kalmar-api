@@ -15,7 +15,7 @@
                                 "backgroundImage": "images/cover.jpg",
                                 "style": {
                                     "backgroundSize": "cover",
-                                    "fontSize": "60px",
+                                    "fontSize": "40px",
                                     "textAlign": "center",
                                     "color": "white"
                                 }
@@ -26,7 +26,8 @@
                             "props": {
                                 "style": {
                                     "maxWidth": "1100px",
-                                    "margin": "0 auto"
+                                    "margin": "0 auto",
+                                    "padding": "40px 0"
                                 },
                                 "children": [
                                     {
@@ -34,62 +35,43 @@
                                         "props": {
                                             "children": [
                                                 {
-                                                    "component": "Header",
-                                                    "props": {
-                                                        "title": "Visa alla IT-jobb",
-                                                        "style": {
-                                                            "padding": "20px",
-                                                            "borderRadius": "10px 10px 0 0",
-                                                            "backgroundColor": "#006058",
-                                                            "fontFamily": "'Titillium Web', sans-serif"
-                                                        }
-                                                    }
-                                                },
-                                                {
                                                     "component": "NavLink",
                                                     "props": {
                                                         "to": "https://www.facebook.com/itjobbikalmar/",
                                                         "target": "_blank",
                                                         "style": {
                                                             "position": "relative",
-                                                            "minHeight": "400px"
+                                                            "color": "white",
+                                                            "textDecoration": "none"
                                                         },
                                                         "children": [
                                                             {
                                                                 "component": "Header",
                                                                 "props": {
-                                                                    "number": 2,
+                                                                    "title": "Visa alla IT-jobb",
                                                                     "style": {
-                                                                        "top": 0,
-                                                                        "right": 0,
-                                                                        "bottom": 0,
-                                                                        "left": 0,
-                                                                        "background": "url(images/listings-cover.jpg)",
-                                                                        "backgroundSize": "cover",
-                                                                        "fontSize": "30px",
-                                                                        "textAlign": "center",
-                                                                        "display": "flex",
-                                                                        "position": "absolute",
-                                                                        "fontFamily": "'Titillium Web', sans-serif",
-                                                                        "backgroundPosition": "center center"
+                                                                        "borderRadius": "10px 10px 0 0",
+                                                                        "padding": "20px",
+                                                                        "fontSize": "16px",
+                                                                        "whiteSpace": "noWrap",
+                                                                        "backgroundColor": "#006058",
+                                                                        "fontFamily": "'Titillium Web', sans-serif"
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "component": "Image",
+                                                                "props": {
+                                                                    "number": 2,
+                                                                    "src": "images/listings-cover.jpg",
+                                                                    "alt": "Bild för vår Facebooksida där man hittar alla jobbannonser",
+                                                                    "style": {
+                                                                        "borderRadius": "0 0 10px 10px",
+                                                                        "width": "100%"
                                                                     }
                                                                 }
                                                             }
                                                         ]
-                                                    }
-                                                },
-                                                {
-                                                    "component": "Text",
-                                                    "props": {
-                                                        "children": "På vår Facebook-sida så hittar du alla de senaste jobbannonserna.",
-                                                        "style": {
-                                                            "background": "white",
-                                                            "padding": "20px",
-                                                            "borderRadius": "0 0 10px 10px",
-                                                            "margin": 0,
-                                                            "height": "50px",
-                                                            "textAlign": "center"
-                                                        }
                                                     }
                                                 }
                                             ],
@@ -134,24 +116,7 @@
         "listings": {
             "display": "Se alla jobb",
             "route": "https://www.facebook.com/itjobbikalmar/",
-            "scene": null,
-            "content": {
-                "sections": [
-                    [
-                        {
-                            "component": "Header",
-                            "props": {
-                                "backgroundImage": "images/listings-cover.jpg",
-                                "style": {
-                                    "height": "400px",
-                                    "backgroundSize": "cover",
-                                    "backgroundPosition": "top right"
-                                }
-                            }
-                        }
-                    ]
-                ]
-            }
+            "scene": null
         },
         "companies": {
             "display": "Företag",
@@ -186,77 +151,85 @@
                                     "padding": "120px 40px 40px 40px"
                                 }
                             }
-                        },
-                        {
-                            "component": "Text",
+                        }, {
+                            "component": "Div",
                             "props": {
-                                "children": "Den här sidan är skapad för att boosta Kalmarregionens IT-bransch och IT-företag.",
                                 "style": {
-                                    "padding": "20px 40px 0 40px",
-                                    "textAlign": "left",
-                                    "fontSize": "22px",
-                                    "fontWeight": "800",
-                                    "lineHeight": "34px"
-                                }
-                            }
-                        },
-                        {
-                            "component": "Text",
-                            "props": {
-                                "children": "Vårt mål är att kunna hjälpa studenter, nyinflyttade, eller helt enkelt vem som helst som känner att det är dags för att ta nästa steg i karriären inom IT-branschen.",
-                                "style": {
-                                    "padding": "0 40px",
-                                    "textAlign": "left",
-                                    "fontSize": "18px",
-                                    "lineHeight": "30px"
-                                }
-                            }
-                        },
-                        {
-                            "component": "Text",
-                            "props": {
-                                "children": "Om ni vill komma i kontakt med oss, ändra, lägga till, ta bort information eller liknande så är det enklast att maila oss på kontakt@itjobbikalmar.se eller skriva på Facebook.",
-                                "style": {
-                                    "padding": "0 40px",
-                                    "textAlign": "left",
-                                    "fontSize": "18px",
-                                    "lineHeight": "30px"
-                                }
-                            }
-                        },
-                        {
-                            "component": "Text",
-                            "props": {
-                                "children": "Eftersom vi förväntar oss en del IT-nördar här så kan vi även berätta att siten är skapad med hjälp av följande verktyg",
-                                "style": {
-                                    "padding": "0 40px 0 10px",
-                                    "margin": "60px 0 0 40px",
-                                    "textAlign": "left",
-                                    "fontSize": "18px",
-                                    "fontWeight": "800",
-                                    "lineHeight": "30px",
-                                    "borderLeft": "4px solid #013760"
-                                }
-                            }
-                        },
-                        {
-                            "component": "List",
-                            "props": {
-                                "children": [
-                                    "- React (create react app) https://github.com/facebook/create-react-app",
-                                    "- Github https://github.com",
-                                    "- Travis CI https://travis-ci.org",
-                                    "- Amazon S3 static website hosting https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html",
-                                    "- Amazon CloudFront https://aws.amazon.com/cloudfront/",
-                                    "- Amazon Certificate Manager https://aws.amazon.com/certificate-manager"
-                                ],
-                                "style": {
-                                    "listStyleType": "none",
-                                    "padding": "0 40px",
-                                    "textAlign": "left",
-                                    "fontSize": "16px",
-                                    "lineHeight": "28px"
-                                }
+                                    "maxWidth": "900px",
+                                    "margin": "0 auto",
+                                    "flexDirection": "column"
+                                },
+                                "children": [{
+                                    "component": "Text",
+                                    "props": {
+                                        "children": "Den här sidan är skapad för att boosta Kalmarregionens IT-bransch och IT-företag.",
+                                        "style": {
+                                            "padding": "20px 40px 0 40px",
+                                            "textAlign": "left",
+                                            "fontSize": "26px",
+                                            "fontWeight": "800",
+                                            "lineHeight": "1.5"
+                                        }
+                                    }
+                                },
+                                {
+                                    "component": "Text",
+                                    "props": {
+                                        "children": "Vårt mål är att kunna hjälpa studenter, nyinflyttade, eller helt enkelt vem som helst som känner att det är dags för att ta nästa steg i karriären inom IT-branschen.",
+                                        "style": {
+                                            "padding": "0 40px",
+                                            "textAlign": "left",
+                                            "fontSize": "18px",
+                                            "lineHeight": "30px"
+                                        }
+                                    }
+                                },
+                                {
+                                    "component": "Text",
+                                    "props": {
+                                        "children": "Om ni vill komma i kontakt med oss, ändra, lägga till, ta bort information eller liknande så är det enklast att maila oss på kontakt@itjobbikalmar.se eller skriva på Facebook.",
+                                        "style": {
+                                            "padding": "0 40px",
+                                            "textAlign": "left",
+                                            "fontSize": "18px",
+                                            "lineHeight": "30px"
+                                        }
+                                    }
+                                },
+                                {
+                                    "component": "Text",
+                                    "props": {
+                                        "children": "Eftersom vi förväntar oss en del IT-nördar här så kan vi även berätta att siten är skapad med hjälp av följande verktyg",
+                                        "style": {
+                                            "padding": "0 40px 0 10px",
+                                            "margin": "60px 0 0 40px",
+                                            "textAlign": "left",
+                                            "fontSize": "18px",
+                                            "fontWeight": "800",
+                                            "lineHeight": "30px"
+                                        }
+                                    }
+                                },
+                                {
+                                    "component": "List",
+                                    "props": {
+                                        "children": [
+                                            "- React (create react app) https://github.com/facebook/create-react-app",
+                                            "- Github https://github.com",
+                                            "- Travis CI https://travis-ci.org",
+                                            "- Amazon S3 static website hosting https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html",
+                                            "- Amazon CloudFront https://aws.amazon.com/cloudfront/",
+                                            "- Amazon Certificate Manager https://aws.amazon.com/certificate-manager"
+                                        ],
+                                        "style": {
+                                            "listStyleType": "none",
+                                            "padding": "0 40px",
+                                            "textAlign": "left",
+                                            "fontSize": "16px",
+                                            "lineHeight": "28px"
+                                        }
+                                    }
+                                }]
                             }
                         }
                     ]
@@ -272,7 +245,7 @@
             "size": "30px"
         },
         "style": {
-            "backgroundColor": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0.8)",
             "color": "white"
         }
     }
