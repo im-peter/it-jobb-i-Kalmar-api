@@ -69,18 +69,6 @@
             "tags": []
         },
         {
-            "name": "Gota Media",
-            "description": "Gota Medias utvecklings- och innovationsteam arbetar med att ständigt förnya och färbättra våra verktyg och produkter med målet att leverera framtidens digitala medieupplevelse till Gota Medias kunder. Vi är ett agilt team, med stora utmaningar, som har riktigt kul på jobbet.",
-            "level": "gold",
-            "logo": "/images/partners/gotamedia.png",
-            "website": "https://www.clxcommunications.com/",
-            "facebook": "https://www.facebook.com/clxcommunications/",
-            "twitter": "https://twitter.com/CLXCommsAB",
-            "tags": [
-                "Media", "Agil", "Amazon", "AWS", "Scrum", "PHP", "JavaScript", "PWA", "Cloud", "React", "Interaktionsdesign", "UX", "Utveckling", "Innovation", "Inhouse"
-            ]
-        },
-        {
             "name": "Vitec",
             "description": "Vitec är ett programvarubolag som erbjuder specifika affärssystem till bygg- och fastighetsbolag, fastighetsmäklare, energibolag, banker och försäkringsmäklare, tidningsföretag samt hälsoföretag.",
             "level": "gold",
@@ -94,6 +82,21 @@
             ]
         },
         {
+            "name": "Royal design",
+            "description": "Sveriges största utbud av inredning, möbler och design till ditt hem. Royal Design erbjuder ett sortiment med över 100 000 produkter. Inredning på nätet när det är som bäst. Allt från trendig heminredning till vacker belysning från Skandinaviens främsta varumärken och designers. Här hittar du allt från den populära blocklampan från Design House Stockholm, Mine-glasen från Kosta Boda, mattan Vera från Pappelina, serien Teema från Iittala och mycket annat från stora kända varumärken. I Royal Design Group och i vårt koncept för heminredning på nätet ingår också Rum21.se.",
+            "level": "gold",
+            "logo": "/images/partners/royaldesign.png",
+            "website": "http://royaldesign.se/",
+            "facebook": "https://www.facebook.com/RoyalDesign.se",
+            "twitter": "https://twitter.com/RoyalDesigncom",
+            "tags": [
+                ".NET",
+                "JavaScript",
+                "React",
+                "Redux"
+            ]
+        },
+        {
             "name": "E-hälsomyndigheten",
             "description": "Hela 99 procent av alla recept i Sverige är elektroniska. När en läkare skickar iväg ett e-recept från sin dator hamnar det hos oss på eHälsomyndigheten. Alla apotek kan sedan hämta e-receptet och lämna ut läkemedlet till kunden. Detta är ett exempel på hur e-hälsa underlättar vardagen för oss alla. Förutom att ansvara för e-recepten leder vi regeringens satsningar på e-hälsa och erbjuder ett antal e-hälsotjänster.",
             "level": "gold",
@@ -104,18 +107,15 @@
             "tags": []
         },
         {
-            "name": "Royal design",
-            "description": "Sveriges största utbud av inredning, möbler och design till ditt hem. Royal Design erbjuder ett sortiment med över 100 000 produkter. Inredning på nätet när det är som bäst. Allt från trendig heminredning till vacker belysning från Skandinaviens främsta varumärken och designers. Här hittar du allt från den populära blocklampan från Design House Stockholm, Mine-glasen från Kosta Boda, mattan Vera från Pappelina, serien Teema från Iittala och mycket annat från stora kända varumärken. I Royal Design Group och i vårt koncept för heminredning på nätet ingår också Rum21.se.",
+            "name": "Gota Media",
+            "description": "Gota Medias utvecklings- och innovationsteam arbetar med att ständigt förnya och färbättra våra verktyg och produkter med målet att leverera framtidens digitala medieupplevelse till Gota Medias kunder. Vi är ett agilt team, med stora utmaningar, som har riktigt kul på jobbet.",
             "level": "silver",
-            "logo": "/images/partners/royaldesign.png",
-            "website": "http://royaldesign.se/",
-            "facebook": "https://www.facebook.com/RoyalDesign.se",
-            "twitter": "https://twitter.com/RoyalDesigncom",
+            "logo": "/images/partners/gotamedia.png",
+            "website": "https://www.gotamedia.se",
+            "facebook": "",
+            "twitter": "",
             "tags": [
-                ".NET",
-                "JavaScript",
-                "React",
-                "Redux"
+                "Media", "Agil", "Amazon", "AWS", "Scrum", "PHP", "JavaScript", "PWA", "Cloud", "React", "Interaktionsdesign", "UX", "Utveckling", "Innovation", "Inhouse"
             ]
         },
         {
