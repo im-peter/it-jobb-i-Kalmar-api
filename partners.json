@@ -44,26 +44,6 @@
             ]
         },
         {
-            "name": "E-hälsomyndigheten",
-            "description": "Hela 99 procent av alla recept i Sverige är elektroniska. När en läkare skickar iväg ett e-recept från sin dator hamnar det hos oss på eHälsomyndigheten. Alla apotek kan sedan hämta e-receptet och lämna ut läkemedlet till kunden. Detta är ett exempel på hur e-hälsa underlättar vardagen för oss alla. Förutom att ansvara för e-recepten leder vi regeringens satsningar på e-hälsa och erbjuder ett antal e-hälsotjänster.",
-            "level": "gold",
-            "logo": "/images/partners/ehalsomyndigheten.svg",
-            "website": "https://www.ehalsomyndigheten.se/",
-            "facebook": "",
-            "twitter": "https://twitter.com/eHalsan",
-            "tags": []
-        },
-        {
-            "name": "Atea",
-            "description": "Vi bygger Sverige med it. Vi har ett heltäckande erbjudande inom it-infrastruktur. Våra it-specialister hjälper dig med lösningar, från en lokalt installerad lösning till it som tjänst - det som passar din verksamhet bäst. I Sverige är vi 2 200 medarbetare på ett trettiotal orter från Malmö i söder till Kiruna i norr. Omkring 1 000 av oss är konsulter.",
-            "level": "gold",
-            "logo": "/images/partners/atea.png",
-            "website": "https://www.atea.se/",
-            "facebook": "https://www.facebook.com/ateasverige",
-            "twitter": "https://twitter.com/ateasverige",
-            "tags": []
-        },
-        {
             "name": "CLX Communications",
             "description": "CLX erbjuder molnbaserade företagstjänster som underlättar kommunikation med sms, röstmeddelanden och annan mobil data. Företaget har cirka 20 anställda i Kalmar, av totalt cirka 180 anställda, med huvudkontor i Kista och flera filialer världen över.",
             "level": "gold",
@@ -79,6 +59,28 @@
             ]
         },
         {
+            "name": "Atea",
+            "description": "Vi bygger Sverige med it. Vi har ett heltäckande erbjudande inom it-infrastruktur. Våra it-specialister hjälper dig med lösningar, från en lokalt installerad lösning till it som tjänst - det som passar din verksamhet bäst. I Sverige är vi 2 200 medarbetare på ett trettiotal orter från Malmö i söder till Kiruna i norr. Omkring 1 000 av oss är konsulter.",
+            "level": "gold",
+            "logo": "/images/partners/atea.png",
+            "website": "https://www.atea.se/",
+            "facebook": "https://www.facebook.com/ateasverige",
+            "twitter": "https://twitter.com/ateasverige",
+            "tags": []
+        },
+        {
+            "name": "Gota Media",
+            "description": "Gota Medias utvecklings- och innovationsteam arbetar med att ständigt förnya och färbättra våra verktyg och produkter med målet att leverera framtidens digitala medieupplevelse till Gota Medias kunder. Vi är ett agilt team, med stora utmaningar, som har riktigt kul på jobbet.",
+            "level": "gold",
+            "logo": "/images/partners/gotamedia.png",
+            "website": "https://www.clxcommunications.com/",
+            "facebook": "https://www.facebook.com/clxcommunications/",
+            "twitter": "https://twitter.com/CLXCommsAB",
+            "tags": [
+                "Media", "Agil", "Amazon", "AWS", "Scrum", "PHP", "JavaScript", "PWA", "Cloud", "React", "Interaktionsdesign", "UX", "Utveckling", "Innovation", "Inhouse"
+            ]
+        },
+        {
             "name": "Vitec",
             "description": "Vitec är ett programvarubolag som erbjuder specifika affärssystem till bygg- och fastighetsbolag, fastighetsmäklare, energibolag, banker och försäkringsmäklare, tidningsföretag samt hälsoföretag.",
             "level": "gold",
@@ -90,6 +92,16 @@
                 ".NET",
                 "JavaScript"
             ]
+        },
+        {
+            "name": "E-hälsomyndigheten",
+            "description": "Hela 99 procent av alla recept i Sverige är elektroniska. När en läkare skickar iväg ett e-recept från sin dator hamnar det hos oss på eHälsomyndigheten. Alla apotek kan sedan hämta e-receptet och lämna ut läkemedlet till kunden. Detta är ett exempel på hur e-hälsa underlättar vardagen för oss alla. Förutom att ansvara för e-recepten leder vi regeringens satsningar på e-hälsa och erbjuder ett antal e-hälsotjänster.",
+            "level": "gold",
+            "logo": "/images/partners/ehalsomyndigheten.svg",
+            "website": "https://www.ehalsomyndigheten.se/",
+            "facebook": "",
+            "twitter": "https://twitter.com/eHalsan",
+            "tags": []
         },
         {
             "name": "Royal design",
