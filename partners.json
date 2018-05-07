@@ -349,7 +349,7 @@
         },
         {
             "name": "Södra",
-            "description": "Högteknologiska industri. Innovativt tänkande och banbrytande digitala lösningar. ",
+            "description": "Högteknologiska industri. Innovativt tänkande och banbrytande digitala lösningar.",
             "level": "bronze",
             "logo": "/images/partners/sodra.jpeg",
             "website": "https://www.sodra.com/sv/",
@@ -359,6 +359,52 @@
                 "JavaScript",
                 "ReactNative",
                 "Swift"
+            ]
+        },
+        {
+            "name": "Advitum",
+            "description": "Vi erbjuder tjänster och produkter inom it-infrastruktur till företag och organisationer. Vårt stora fokus på kundnöjdhet, affärsnytta och tillgänglighet gör oss till det självklara valet som IT-partner. Vi finns där oavsett när du behöver oss.",
+            "level": "bronze",
+            "logo": "/images/partners/advitum.png",
+            "website": "https://www.advitum.se/",
+            "facebook": "https://www.facebook.com/Advitum/",
+            "twitter": "",
+            "tags": [
+                "Affärsutvecklilng",
+                "Citrix",
+                "Censornet",
+                "Microsoft",
+                "Cloud",
+                "Azure"
+            ]
+        },
+        {
+            "name": "Data networks",
+            "description": "Vi är ett fiberinstallationsföretag deluxe med kvalitet och leverans som vår ledstjärna. Vi har installerat över 15000 Fiber Till Hemmet kunder i fler än 100 olika projekt åt både Skanova och IP Only över hela Sverige sedan 2013 med topp notch kvalitet och till högsta möjliga kundnöjdhet.",
+            "level": "bronze",
+            "logo": "/images/partners/datanetworks.png",
+            "website": "http://datanetworks.se/",
+            "facebook": "",
+            "twitter": "",
+            "tags": [
+                "Bredband",
+                "Fiber",
+                "Support",
+                "CAD"
+            ]
+        },
+        {
+            "name": "IP-only",
+            "description": "IP-Onlys affärsidé är att möjliggöra digitaliseringen genom att äga, utveckla och erbjuda den bästa infrastrukturen och närliggande tjänster för det digitala hållbara samhället.",
+            "level": "bronze",
+            "logo": "/images/partners/ip-only.svg",
+            "website": "https://www.ip-only.se/",
+            "facebook": "https://www.facebook.com/ip.only.ab",
+            "twitter": "https://twitter.com/ip_only",
+            "tags": [
+                "Bredband",
+                "Fiber",
+                "Support"
             ]
         },
         {
