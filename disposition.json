@@ -84,6 +84,60 @@
                                                 "height": "auto"
                                             }
                                         }
+                                    }, 
+                                    {
+                                        "component": "Box",
+                                        "props": {
+                                            "children": [
+                                                {
+                                                    "component": "NavLink",
+                                                    "props": {
+                                                        "to": "/om-kalmar",
+                                                        "style": {
+                                                            "position": "relative",
+                                                            "color": "white",
+                                                            "textDecoration": "none"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "component": "Header",
+                                                                "props": {
+                                                                    "title": "Kalmar",
+                                                                    "style": {
+                                                                        "borderRadius": "10px 10px 0 0",
+                                                                        "padding": "20px",
+                                                                        "fontSize": "16px",
+                                                                        "whiteSpace": "noWrap",
+                                                                        "backgroundColor": "#60005d",
+                                                                        "fontFamily": "'Titillium Web', sans-serif"
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "component": "Image",
+                                                                "props": {
+                                                                    "number": 2,
+                                                                    "src": "images/live-kalmar.jpg",
+                                                                    "alt": "Bild för länk till sida med information om Kalmar, Photo by Jon Flobrant on Unsplash",
+                                                                    "style": {
+                                                                        "borderRadius": "0 0 10px 10px",
+                                                                        "width": "100%"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ],
+                                            "style": {
+                                                "overflow": "hidden",
+                                                "flex": 2,
+                                                "padding": "20px"
+                                            },
+                                            "innerStyle": {
+                                                "height": "auto"
+                                            }
+                                        }
                                     }
                                 ]
                             }
@@ -119,13 +173,267 @@
             "scene": null
         },
         "companies": {
-            "display": "Företag",
+            "display": "Hitta företag",
             "route": "/foretag",
             "scene": "Companies",
             "dataSrc": "partners",
             "content": {
                 "sections": [
                     "data"
+                ]
+            }
+        },
+        "kalmar": {
+            "display": "Livet i Kalmar",
+            "route": "/om-kalmar",
+            "scene": "Page",
+            "style": {
+                "background": "white"
+            },
+            "content": {
+                "sections": [
+                    [
+                        {
+                            "component": "Header",
+                            "props": {
+                                "title": "Kalmar",
+                                "style": {
+                                    "fontSize": "30px",
+                                    "textAlign": "center",
+                                    "color": "#013760",
+                                    "background": "#fafafa",
+                                    "padding": "120px 40px 40px 40px"
+                                }
+                            }
+                        },
+                        {
+                            "component": "Div",
+                            "props": {
+                                "style": {
+                                    "maxWidth": "900px",
+                                    "margin": "0 auto",
+                                    "padding": "0 40px",
+                                    "flexDirection": "column"
+                                },
+                                "children": [
+                                    {
+                                        "component": "Text",
+                                        "props": {
+                                            "children": "Här hittar du information om Kalmar och regionen. Är du nyfiken på att flytta till Kalmar så hittar du länkar om boende och jobb till medflyttande partner här.",
+                                            "style": {
+                                                "padding": "40px",
+                                                "textAlign": "left",
+                                                "fontSize": "22px",
+                                                "fontWeight": "900",
+                                                "lineHeight": "1.8",
+                                                "marginBottom": "40px"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "component": "Div",
+                                        "props": {
+                                            "style": {
+                                                "background": "#4cc178",
+                                                "maxWidth": "900px",
+                                                "margin": "0 auto 40px auto",
+                                                "flexDirection": "column",
+                                                "borderRadius": "10px",
+                                                "width": "100%"
+                                            },
+                                            "children": [
+                                                {
+                                                    "component": "Text",
+                                                    "props": {
+                                                        "children": "Jobb",
+                                                        "style": {
+                                                            "padding": "40px",
+                                                            "margin": 0,
+                                                            "color": "white",
+                                                            "textAlign": "left",
+                                                            "fontFamily": "Titillium Web, sans-serif",
+                                                            "fontSize": "35px",
+                                                            "lineHeight": "35px"
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "component": "NavLink",
+                                                    "props": {
+                                                        "to": "http://kalmarsundsregionen.com/jobb/",
+                                                        "target": "_blank",
+                                                        "style": {
+                                                            "color": "white",
+                                                            "position": "relative",
+                                                            "textDecoration": "none",
+                                                            "background": "rgba(51, 51, 51, 0.3)",
+                                                            "borderRadius": "0 0 10px 10px",
+                                                            "padding": "40px",
+                                                            "textAlign": "left",
+                                                            "fontWeight": "900",
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "30px"
+                                                        },
+                                                        "children": "kalmarsundsregionen.com/jobb"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "component": "Div",
+                                        "props": {
+                                            "style": {
+                                                "background": "#c14b7f",
+                                                "maxWidth": "900px",
+                                                "margin": "0 auto 40px auto",
+                                                "flexDirection": "column",
+                                                "borderRadius": "10px",
+                                                "width": "100%"
+                                            },
+                                            "children": [
+                                                {
+                                                    "component": "Text",
+                                                    "props": {
+                                                        "children": "Boende",
+                                                        "style": {
+                                                            "padding": "40px",
+                                                            "margin": 0,
+                                                            "color": "white",
+                                                            "textAlign": "left",
+                                                            "fontFamily": "Titillium Web, sans-serif",
+                                                            "fontSize": "35px",
+                                                            "lineHeight": "35px"
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "component": "NavLink",
+                                                    "props": {
+                                                        "to": "http://kalmarsundsregionen.com/boende/",
+                                                        "target": "_blank",
+                                                        "style": {
+                                                            "color": "white",
+                                                            "position": "relative",
+                                                            "textDecoration": "none",
+                                                            "background": "rgba(51, 51, 51, 0.3)",
+                                                            "borderRadius": "0 0 10px 10px",
+                                                            "padding": "40px",
+                                                            "textAlign": "left",
+                                                            "fontWeight": "900",
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "30px"
+                                                        },
+                                                        "children": "kalmarsundsregionen.com/boende"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "component": "Div",
+                                        "props": {
+                                            "style": {
+                                                "background": "#c17e4b",
+                                                "maxWidth": "900px",
+                                                "margin": "0 auto 40px auto",
+                                                "flexDirection": "column",
+                                                "borderRadius": "10px",
+                                                "width": "100%"
+                                            },
+                                            "children": [
+                                                {
+                                                    "component": "Text",
+                                                    "props": {
+                                                        "children": "Studier",
+                                                        "style": {
+                                                            "padding": "40px",
+                                                            "margin": 0,
+                                                            "color": "white",
+                                                            "textAlign": "left",
+                                                            "fontFamily": "Titillium Web, sans-serif",
+                                                            "fontSize": "35px",
+                                                            "lineHeight": "35px"
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "component": "NavLink",
+                                                    "props": {
+                                                        "to": "http://kalmarsundsregionen.com/studier/",
+                                                        "target": "_blank",
+                                                        "style": {
+                                                            "color": "white",
+                                                            "position": "relative",
+                                                            "textDecoration": "none",
+                                                            "background": "rgba(51, 51, 51, 0.3)",
+                                                            "borderRadius": "0 0 10px 10px",
+                                                            "padding": "40px",
+                                                            "textAlign": "left",
+                                                            "fontWeight": "900",
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "30px"
+                                                        },
+                                                        "children": "kalmarsundsregionen.com/studier"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "component": "Div",
+                                        "props": {
+                                            "style": {
+                                                "background": "#4baac1",
+                                                "maxWidth": "900px",
+                                                "margin": "0 auto 40px auto",
+                                                "flexDirection": "column",
+                                                "borderRadius": "10px",
+                                                "width": "100%"
+                                            },
+                                            "children": [
+                                                {
+                                                    "component": "Text",
+                                                    "props": {
+                                                        "children": "Evenemang",
+                                                        "style": {
+                                                            "padding": "40px",
+                                                            "margin": 0,
+                                                            "color": "white",
+                                                            "textAlign": "left",
+                                                            "fontFamily": "Titillium Web, sans-serif",
+                                                            "fontSize": "35px",
+                                                            "lineHeight": "35px"
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "component": "NavLink",
+                                                    "props": {
+                                                        "to": "http://kalmarsundsregionen.com/evenemang/",
+                                                        "target": "_blank",
+                                                        "style": {
+                                                            "color": "white",
+                                                            "position": "relative",
+                                                            "textDecoration": "none",
+                                                            "background": "rgba(51, 51, 51, 0.3)",
+                                                            "borderRadius": "0 0 10px 10px",
+                                                            "padding": "40px",
+                                                            "textAlign": "left",
+                                                            "fontWeight": "900",
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "30px"
+                                                        },
+                                                        "children": "kalmarsundsregionen.com/evenemang"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
                 ]
             }
         },
@@ -151,7 +459,8 @@
                                     "padding": "120px 40px 40px 40px"
                                 }
                             }
-                        }, {
+                        },
+                        {
                             "component": "Div",
                             "props": {
                                 "style": {
@@ -159,77 +468,79 @@
                                     "margin": "0 auto",
                                     "flexDirection": "column"
                                 },
-                                "children": [{
-                                    "component": "Text",
-                                    "props": {
-                                        "children": "Den här sidan är skapad för att boosta Kalmarregionens IT-bransch och IT-företag.",
-                                        "style": {
-                                            "padding": "20px 40px 0 40px",
-                                            "textAlign": "left",
-                                            "fontSize": "26px",
-                                            "fontWeight": "800",
-                                            "lineHeight": "1.5"
+                                "children": [
+                                    {
+                                        "component": "Text",
+                                        "props": {
+                                            "children": "Den här sidan är skapad för att boosta Kalmarregionens IT-bransch och IT-företag.",
+                                            "style": {
+                                                "padding": "20px 40px 0 40px",
+                                                "textAlign": "left",
+                                                "fontSize": "26px",
+                                                "fontWeight": "800",
+                                                "lineHeight": "1.5"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "component": "Text",
+                                        "props": {
+                                            "children": "Vårt mål är att kunna hjälpa studenter, nyinflyttade, eller helt enkelt vem som helst som känner att det är dags för att ta nästa steg i karriären inom IT-branschen.",
+                                            "style": {
+                                                "padding": "0 40px",
+                                                "textAlign": "left",
+                                                "fontSize": "18px",
+                                                "lineHeight": "30px"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "component": "Text",
+                                        "props": {
+                                            "children": "Om ni vill komma i kontakt med oss, ändra, lägga till, ta bort information eller liknande så är det enklast att maila oss på kontakt@itjobbikalmar.se eller skriva på Facebook.",
+                                            "style": {
+                                                "padding": "0 40px",
+                                                "textAlign": "left",
+                                                "fontSize": "18px",
+                                                "lineHeight": "30px"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "component": "Text",
+                                        "props": {
+                                            "children": "Eftersom vi förväntar oss en del IT-nördar här så kan vi även berätta att siten är skapad med hjälp av följande verktyg",
+                                            "style": {
+                                                "padding": "0 40px 0 10px",
+                                                "margin": "60px 0 0 40px",
+                                                "textAlign": "left",
+                                                "fontSize": "18px",
+                                                "fontWeight": "800",
+                                                "lineHeight": "30px"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "component": "List",
+                                        "props": {
+                                            "children": [
+                                                "- React (create react app) https://github.com/facebook/create-react-app",
+                                                "- Github https://github.com",
+                                                "- Travis CI https://travis-ci.org",
+                                                "- Amazon S3 static website hosting https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html",
+                                                "- Amazon CloudFront https://aws.amazon.com/cloudfront/",
+                                                "- Amazon Certificate Manager https://aws.amazon.com/certificate-manager"
+                                            ],
+                                            "style": {
+                                                "listStyleType": "none",
+                                                "padding": "0 40px",
+                                                "textAlign": "left",
+                                                "fontSize": "16px",
+                                                "lineHeight": "28px"
+                                            }
                                         }
                                     }
-                                },
-                                {
-                                    "component": "Text",
-                                    "props": {
-                                        "children": "Vårt mål är att kunna hjälpa studenter, nyinflyttade, eller helt enkelt vem som helst som känner att det är dags för att ta nästa steg i karriären inom IT-branschen.",
-                                        "style": {
-                                            "padding": "0 40px",
-                                            "textAlign": "left",
-                                            "fontSize": "18px",
-                                            "lineHeight": "30px"
-                                        }
-                                    }
-                                },
-                                {
-                                    "component": "Text",
-                                    "props": {
-                                        "children": "Om ni vill komma i kontakt med oss, ändra, lägga till, ta bort information eller liknande så är det enklast att maila oss på kontakt@itjobbikalmar.se eller skriva på Facebook.",
-                                        "style": {
-                                            "padding": "0 40px",
-                                            "textAlign": "left",
-                                            "fontSize": "18px",
-                                            "lineHeight": "30px"
-                                        }
-                                    }
-                                },
-                                {
-                                    "component": "Text",
-                                    "props": {
-                                        "children": "Eftersom vi förväntar oss en del IT-nördar här så kan vi även berätta att siten är skapad med hjälp av följande verktyg",
-                                        "style": {
-                                            "padding": "0 40px 0 10px",
-                                            "margin": "60px 0 0 40px",
-                                            "textAlign": "left",
-                                            "fontSize": "18px",
-                                            "fontWeight": "800",
-                                            "lineHeight": "30px"
-                                        }
-                                    }
-                                },
-                                {
-                                    "component": "List",
-                                    "props": {
-                                        "children": [
-                                            "- React (create react app) https://github.com/facebook/create-react-app",
-                                            "- Github https://github.com",
-                                            "- Travis CI https://travis-ci.org",
-                                            "- Amazon S3 static website hosting https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html",
-                                            "- Amazon CloudFront https://aws.amazon.com/cloudfront/",
-                                            "- Amazon Certificate Manager https://aws.amazon.com/certificate-manager"
-                                        ],
-                                        "style": {
-                                            "listStyleType": "none",
-                                            "padding": "0 40px",
-                                            "textAlign": "left",
-                                            "fontSize": "16px",
-                                            "lineHeight": "28px"
-                                        }
-                                    }
-                                }]
+                                ]
                             }
                         }
                     ]
