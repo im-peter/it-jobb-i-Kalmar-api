@@ -4,9 +4,10 @@
   "description": "",
   "main": "",
   "scripts": {
-    "build": "npm run build-partners && npm run build-disposition && npm run build-news",
+    "build": "npm-run-all build-partners build-disposition build-listings build-news",
     "build-disposition": "json-minify disposition.json > build/disposition.json",
     "build-partners": "json-minify partners.json > build/partners.json",
+    "build-listings": "json-minify listings.json > build/listings.json",
     "build-news": "json-minify news.json > build/news.json"
   },
   "repository": {
@@ -22,5 +23,8 @@
   "dependencies": {
     "gzip-all": "^1.0.0",
     "json-minify": "^1.0.0"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.3"
   }
 }
