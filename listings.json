@@ -244,6 +244,49 @@
             "link": "https://jobs.academicwork.se/annons/examen-i-sommar-och-soker-ditt-forsta-utvecklarjobb/15001382",
             "company": "Tieto",
             "text": "Tieto Kalmar söker nyexade utvecklare för Java programmering"
+        },
+
+        {
+            "date": "2018-07-03",
+            "link": "https://www.easyfy.se/",
+            "company": "Easyfy",
+            "text": "Easyfy söker frontend utvecklare!"
+        },
+        {
+            "date": "2018-07-12",
+            "link": "https://www.ltkalmar.se/lediga-jobb/sok-lediga-jobb/senior-it-systemanalytiker/",
+            "company": "Landstinget i Kalmar",
+            "text": "Senior IT Systemanalytiker"
+        },
+        {
+            "date": "2018-07-13",
+            "link": "https://www.meridium.se/sv/jobba-hos-oss/frontendutvecklare/",
+            "company": "Meridium",
+            "text": "Erfaren Webbutvecklare med tyngd på frontend"
+        },
+        {
+            "date": "2018-07-18",
+            "link": "https://www.atea.se/karriar/ledigt-jobb/?id=189133&name=Accelerate+%E2%80%93+Utvecklingsprogram+for+blivande+IT-konsulter",
+            "company": "Atea",
+            "text": "Vill du få en kickstart in i it-branschen?"
+        },
+        {
+            "date": "2018-07-28",
+            "link": "https://codebet.se/karriar.html#javascript",
+            "company": "Codebet",
+            "text": "Codebet söker JavaScript utvecklare och UX-designer"
+        },
+        {
+            "date": "2018-08-02",
+            "link": "https://www.onepartnergroup.se/lediga-jobb/kalmar/software-qa-engineer/",
+            "company": "Södra",
+            "text": "Södras digitala innovationsavdelning söker Software QA Engineer"
+        },
+        {
+            "date": "2018-08-03",
+            "link": "https://lnu.se/mot-linneuniversitetet/Lediga-jobb/?rmpage=job&rmjob=3676&rmlang=SE",
+            "company": "Linnéuniversitetet",
+            "text": "Linnéuniversitetet söker systemutvecklare"
         }
     ]
 }
